@@ -1,0 +1,14 @@
+map(select(
+       .organisasjonsnummer == "981930010"
+    or .organisasjonsnummer == "991678840"
+    or .organisasjonsnummer == "942852010"
+    or .organisasjonsnummer == "922587140"
+    or .organisasjonsnummer == "997626389"
+    or .organisasjonsnummer == "898391132"
+    or .organisasjonsnummer == "981936914"
+    or .organisasjonsnummer == "912618900"
+    or .organisasjonsnummer == "888224572"
+    or .organisasjonsnummer == "913658345"
+    or .organisasjonsnummer == "918858717"
+    )
+)

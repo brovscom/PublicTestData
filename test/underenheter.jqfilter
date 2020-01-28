@@ -1,0 +1,16 @@
+map(select(
+    .beliggenhetsadresse.poststed == "OSLO" and (
+       .overordnetEnhet == "981930010"
+    or .overordnetEnhet == "991678840"
+    or .overordnetEnhet == "942852010"
+    or .overordnetEnhet == "922587140"
+    or .overordnetEnhet == "997626389"
+    or .overordnetEnhet == "898391132"
+    or .overordnetEnhet == "981936914"
+    or .overordnetEnhet == "912618900"
+    or .overordnetEnhet == "888224572"
+    or .overordnetEnhet == "913658345"
+    or .overordnetEnhet == "918858717"
+    )
+  )
+)

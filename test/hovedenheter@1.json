@@ -1,0 +1,529 @@
+[
+  {
+    "organisasjonsnummer": "913658345",
+    "navn": "REMUAGE AS",
+    "organisasjonsform": {
+      "kode": "AS",
+      "beskrivelse": "Aksjeselskap",
+      "links": []
+    },
+    "registreringsdatoEnhetsregisteret": "2014-05-20",
+    "registrertIMvaregisteret": false,
+    "naeringskode1": {
+      "beskrivelse": "Drift av puber",
+      "kode": "56.301"
+    },
+    "antallAnsatte": 0,
+    "forretningsadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0250",
+      "poststed": "OSLO",
+      "adresse": [
+        "Grundingen 6"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301"
+    },
+    "stiftelsesdato": "2014-03-28",
+    "institusjonellSektorkode": {
+      "kode": "2100",
+      "beskrivelse": "Private aksjeselskaper mv."
+    },
+    "registrertIForetaksregisteret": true,
+    "registrertIStiftelsesregisteret": false,
+    "registrertIFrivillighetsregisteret": false,
+    "sisteInnsendteAarsregnskap": "2015",
+    "konkurs": false,
+    "underAvvikling": false,
+    "underTvangsavviklingEllerTvangsopplosning": true,
+    "maalform": "Bokmål",
+    "links": []
+  },
+  {
+    "organisasjonsnummer": "898391132",
+    "navn": "ALEX SUSHI TJUVHOLMEN AS",
+    "organisasjonsform": {
+      "kode": "AS",
+      "beskrivelse": "Aksjeselskap",
+      "links": []
+    },
+    "postadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0254",
+      "poststed": "OSLO",
+      "adresse": [
+        "Cort Adelers gate 2"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301"
+    },
+    "registreringsdatoEnhetsregisteret": "2012-05-18",
+    "registrertIMvaregisteret": true,
+    "naeringskode1": {
+      "beskrivelse": "Drift av restauranter og kafeer",
+      "kode": "56.101"
+    },
+    "antallAnsatte": 0,
+    "forretningsadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0252",
+      "poststed": "OSLO",
+      "adresse": [
+        "Strandpromenaden 11"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301"
+    },
+    "stiftelsesdato": "2012-05-11",
+    "institusjonellSektorkode": {
+      "kode": "2100",
+      "beskrivelse": "Private aksjeselskaper mv."
+    },
+    "registrertIForetaksregisteret": true,
+    "registrertIStiftelsesregisteret": false,
+    "registrertIFrivillighetsregisteret": false,
+    "sisteInnsendteAarsregnskap": "2018",
+    "konkurs": false,
+    "underAvvikling": false,
+    "underTvangsavviklingEllerTvangsopplosning": false,
+    "maalform": "Bokmål",
+    "links": []
+  },
+  {
+    "organisasjonsnummer": "922587140",
+    "navn": "MISTER INDIA HOLDING AS",
+    "organisasjonsform": {
+      "kode": "AS",
+      "beskrivelse": "Aksjeselskap",
+      "links": []
+    },
+    "hjemmeside": "www.mister-india.no",
+    "postadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0371",
+      "poststed": "OSLO",
+      "adresse": [
+        "Apalveien 12A"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301"
+    },
+    "registreringsdatoEnhetsregisteret": "1995-02-19",
+    "registrertIMvaregisteret": false,
+    "naeringskode1": {
+      "beskrivelse": "Drift av restauranter og kafeer",
+      "kode": "56.101"
+    },
+    "antallAnsatte": 0,
+    "forretningsadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0154",
+      "poststed": "OSLO",
+      "adresse": [
+        "Dronningens gate 19"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301"
+    },
+    "stiftelsesdato": "1979-05-02",
+    "institusjonellSektorkode": {
+      "kode": "2100",
+      "beskrivelse": "Private aksjeselskaper mv."
+    },
+    "registrertIForetaksregisteret": true,
+    "registrertIStiftelsesregisteret": false,
+    "registrertIFrivillighetsregisteret": false,
+    "sisteInnsendteAarsregnskap": "2018",
+    "konkurs": false,
+    "underAvvikling": false,
+    "underTvangsavviklingEllerTvangsopplosning": false,
+    "maalform": "Bokmål",
+    "links": []
+  },
+  {
+    "organisasjonsnummer": "942852010",
+    "navn": "AS THEA",
+    "organisasjonsform": {
+      "kode": "AS",
+      "beskrivelse": "Aksjeselskap",
+      "links": []
+    },
+    "registreringsdatoEnhetsregisteret": "1995-02-19",
+    "registrertIMvaregisteret": true,
+    "naeringskode1": {
+      "beskrivelse": "Drift av restauranter og kafeer",
+      "kode": "56.101"
+    },
+    "antallAnsatte": 22,
+    "forretningsadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0272",
+      "poststed": "OSLO",
+      "adresse": [
+        "Gabels gate 11"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301"
+    },
+    "stiftelsesdato": "1986-10-13",
+    "institusjonellSektorkode": {
+      "kode": "2100",
+      "beskrivelse": "Private aksjeselskaper mv."
+    },
+    "registrertIForetaksregisteret": true,
+    "registrertIStiftelsesregisteret": false,
+    "registrertIFrivillighetsregisteret": false,
+    "sisteInnsendteAarsregnskap": "2018",
+    "konkurs": false,
+    "underAvvikling": false,
+    "underTvangsavviklingEllerTvangsopplosning": false,
+    "maalform": "Bokmål",
+    "links": []
+  },
+  {
+    "organisasjonsnummer": "918858717",
+    "navn": "AM DRIFT AS",
+    "organisasjonsform": {
+      "kode": "AS",
+      "beskrivelse": "Aksjeselskap",
+      "links": []
+    },
+    "registreringsdatoEnhetsregisteret": "2017-04-18",
+    "registrertIMvaregisteret": false,
+    "naeringskode1": {
+      "beskrivelse": "Cateringvirksomhet",
+      "kode": "56.210"
+    },
+    "naeringskode2": {
+      "beskrivelse": "Drift av puber",
+      "kode": "56.301"
+    },
+    "antallAnsatte": 0,
+    "forretningsadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0250",
+      "poststed": "OSLO",
+      "adresse": [
+        "Bryggetorget 5"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301"
+    },
+    "stiftelsesdato": "2017-03-08",
+    "institusjonellSektorkode": {
+      "kode": "2100",
+      "beskrivelse": "Private aksjeselskaper mv."
+    },
+    "registrertIForetaksregisteret": true,
+    "registrertIStiftelsesregisteret": false,
+    "registrertIFrivillighetsregisteret": false,
+    "sisteInnsendteAarsregnskap": "2017",
+    "konkurs": true,
+    "underAvvikling": false,
+    "underTvangsavviklingEllerTvangsopplosning": false,
+    "maalform": "Bokmål",
+    "links": []
+  },
+  {
+    "organisasjonsnummer": "912618900",
+    "navn": "H & M HENNES & MAURITZ AS",
+    "organisasjonsform": {
+      "kode": "AS",
+      "beskrivelse": "Aksjeselskap",
+      "links": []
+    },
+    "postadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0614",
+      "poststed": "OSLO",
+      "adresse": [
+        "Postboks 68 Alnabru"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301"
+    },
+    "registreringsdatoEnhetsregisteret": "1995-02-19",
+    "registrertIMvaregisteret": true,
+    "naeringskode1": {
+      "beskrivelse": "Butikkhandel med klær",
+      "kode": "47.710"
+    },
+    "naeringskode2": {
+      "beskrivelse": "Postordre-/Internetthandel med tekstiler, utstyrsvarer, klær, skotøy, reiseeffekter og lærvarer",
+      "kode": "47.912"
+    },
+    "antallAnsatte": 3330,
+    "forretningsadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0154",
+      "poststed": "OSLO",
+      "adresse": [
+        "Karl Johans gate 14"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301"
+    },
+    "stiftelsesdato": "1959-12-30",
+    "institusjonellSektorkode": {
+      "kode": "2100",
+      "beskrivelse": "Private aksjeselskaper mv."
+    },
+    "registrertIForetaksregisteret": true,
+    "registrertIStiftelsesregisteret": false,
+    "registrertIFrivillighetsregisteret": false,
+    "sisteInnsendteAarsregnskap": "2018",
+    "konkurs": false,
+    "underAvvikling": false,
+    "underTvangsavviklingEllerTvangsopplosning": false,
+    "maalform": "Bokmål",
+    "links": []
+  },
+  {
+    "organisasjonsnummer": "991678840",
+    "navn": "EIK FJORD AS",
+    "organisasjonsform": {
+      "kode": "AS",
+      "beskrivelse": "Aksjeselskap",
+      "links": []
+    },
+    "registreringsdatoEnhetsregisteret": "2007-09-12",
+    "registrertIMvaregisteret": true,
+    "naeringskode1": {
+      "beskrivelse": "Drift av restauranter og kafeer",
+      "kode": "56.101"
+    },
+    "antallAnsatte": 25,
+    "forretningsadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0164",
+      "poststed": "OSLO",
+      "adresse": [
+        "Universitetsgata 11"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301"
+    },
+    "stiftelsesdato": "2007-08-30",
+    "institusjonellSektorkode": {
+      "kode": "2100",
+      "beskrivelse": "Private aksjeselskaper mv."
+    },
+    "registrertIForetaksregisteret": true,
+    "registrertIStiftelsesregisteret": false,
+    "registrertIFrivillighetsregisteret": false,
+    "sisteInnsendteAarsregnskap": "2018",
+    "konkurs": false,
+    "underAvvikling": false,
+    "underTvangsavviklingEllerTvangsopplosning": false,
+    "maalform": "Bokmål",
+    "links": []
+  },
+  {
+    "organisasjonsnummer": "997626389",
+    "navn": "ALEX SUSHI SERVICE AS",
+    "organisasjonsform": {
+      "kode": "AS",
+      "beskrivelse": "Aksjeselskap",
+      "links": []
+    },
+    "registreringsdatoEnhetsregisteret": "2011-11-21",
+    "registrertIMvaregisteret": true,
+    "naeringskode1": {
+      "beskrivelse": "Cateringvirksomhet",
+      "kode": "56.210"
+    },
+    "antallAnsatte": 32,
+    "forretningsadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0254",
+      "poststed": "OSLO",
+      "adresse": [
+        "Cort Adelers gate 2"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301"
+    },
+    "stiftelsesdato": "2011-10-24",
+    "institusjonellSektorkode": {
+      "kode": "2100",
+      "beskrivelse": "Private aksjeselskaper mv."
+    },
+    "registrertIForetaksregisteret": true,
+    "registrertIStiftelsesregisteret": false,
+    "registrertIFrivillighetsregisteret": false,
+    "sisteInnsendteAarsregnskap": "2018",
+    "konkurs": false,
+    "underAvvikling": false,
+    "underTvangsavviklingEllerTvangsopplosning": false,
+    "maalform": "Bokmål",
+    "links": []
+  },
+  {
+    "organisasjonsnummer": "981930010",
+    "navn": "BIK BOK AS",
+    "organisasjonsform": {
+      "kode": "AS",
+      "beskrivelse": "Aksjeselskap",
+      "links": []
+    },
+    "postadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "1377",
+      "poststed": "BILLINGSTAD",
+      "adresse": [
+        "Postboks 194"
+      ],
+      "kommune": "ASKER",
+      "kommunenummer": "3025"
+    },
+    "registreringsdatoEnhetsregisteret": "2000-05-02",
+    "registrertIMvaregisteret": true,
+    "naeringskode1": {
+      "beskrivelse": "Butikkhandel med klær",
+      "kode": "47.710"
+    },
+    "antallAnsatte": 743,
+    "forretningsadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "1396",
+      "poststed": "BILLINGSTAD",
+      "adresse": [
+        "Nesøyveien 4"
+      ],
+      "kommune": "ASKER",
+      "kommunenummer": "3025"
+    },
+    "stiftelsesdato": "1999-12-20",
+    "institusjonellSektorkode": {
+      "kode": "2100",
+      "beskrivelse": "Private aksjeselskaper mv."
+    },
+    "registrertIForetaksregisteret": true,
+    "registrertIStiftelsesregisteret": false,
+    "registrertIFrivillighetsregisteret": false,
+    "sisteInnsendteAarsregnskap": "2018",
+    "konkurs": false,
+    "underAvvikling": false,
+    "underTvangsavviklingEllerTvangsopplosning": false,
+    "maalform": "Bokmål",
+    "links": []
+  },
+  {
+    "organisasjonsnummer": "888224572",
+    "navn": "JEWEL OF INDIA AS",
+    "organisasjonsform": {
+      "kode": "AS",
+      "beskrivelse": "Aksjeselskap",
+      "links": []
+    },
+    "postadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "1410",
+      "poststed": "KOLBOTN",
+      "adresse": [
+        "Johan Svendsens vei 27"
+      ],
+      "kommune": "NORDRE FOLLO",
+      "kommunenummer": "3020"
+    },
+    "registreringsdatoEnhetsregisteret": "2005-05-18",
+    "registrertIMvaregisteret": true,
+    "naeringskode1": {
+      "beskrivelse": "Drift av restauranter og kafeer",
+      "kode": "56.101"
+    },
+    "antallAnsatte": 47,
+    "forretningsadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0256",
+      "poststed": "OSLO",
+      "adresse": [
+        "Oscars gate 81"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301"
+    },
+    "stiftelsesdato": "2005-04-30",
+    "institusjonellSektorkode": {
+      "kode": "2100",
+      "beskrivelse": "Private aksjeselskaper mv."
+    },
+    "registrertIForetaksregisteret": true,
+    "registrertIStiftelsesregisteret": false,
+    "registrertIFrivillighetsregisteret": false,
+    "sisteInnsendteAarsregnskap": "2018",
+    "konkurs": false,
+    "underAvvikling": false,
+    "underTvangsavviklingEllerTvangsopplosning": false,
+    "maalform": "Bokmål",
+    "links": []
+  },
+  {
+    "organisasjonsnummer": "981936914",
+    "navn": "BØLGEN & MOI GIMLE AS",
+    "organisasjonsform": {
+      "kode": "AS",
+      "beskrivelse": "Aksjeselskap",
+      "links": []
+    },
+    "postadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0216",
+      "poststed": "OSLO",
+      "adresse": [
+        "c/o Bølgen & Moi AS",
+        "Postboks 3 Lilleaker"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301"
+    },
+    "registreringsdatoEnhetsregisteret": "2000-05-18",
+    "registrertIMvaregisteret": true,
+    "naeringskode1": {
+      "beskrivelse": "Drift av restauranter og kafeer",
+      "kode": "56.101"
+    },
+    "antallAnsatte": 73,
+    "forretningsadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0265",
+      "poststed": "OSLO",
+      "adresse": [
+        "Bygdøy allé 53"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301"
+    },
+    "stiftelsesdato": "2000-03-14",
+    "institusjonellSektorkode": {
+      "kode": "2100",
+      "beskrivelse": "Private aksjeselskaper mv."
+    },
+    "registrertIForetaksregisteret": true,
+    "registrertIStiftelsesregisteret": false,
+    "registrertIFrivillighetsregisteret": false,
+    "sisteInnsendteAarsregnskap": "2018",
+    "konkurs": false,
+    "underAvvikling": false,
+    "underTvangsavviklingEllerTvangsopplosning": false,
+    "maalform": "Bokmål",
+    "links": []
+  }
+]

@@ -1,0 +1,5 @@
+"map(select(.beliggenhetsadresse.poststed == \"OSLO\" and ( " +
+( [(.[] |
+".overordnetEnhet == \"\(.organisasjonsnummer)\""
+)] | join(" or "))
+    + " ))) | sort_by(.navn)"

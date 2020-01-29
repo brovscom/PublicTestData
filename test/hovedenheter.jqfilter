@@ -1,3 +1,11 @@
+[
+( .[] | select
+  (  .organisasjonsnummer == "981930010"
+  or .organisasjonsnummer == "942852010"
+  or .organisasjonsnummer == "912618900"
+  or .organisasjonsnummer == "888224572"
+  ) 
+),
 ( map(select(.forretningsadresse.poststed == "OSLO" and (.forretningsadresse.postnummer | startswith("015"))))
   | map(select((.konkurs | not) and (.underAvvikling | not) and (.underTvangsavviklingEllerTvangsopplosning | not)))
   | map(select(.naeringskode1.kode == "47.710" or .naeringskode2.kode == "47.710"))
@@ -82,3 +90,4 @@
   | sort_by(.organisasjonsnummer)
   | limit(2; .[])
 )
+] | sort_by(.navn)

@@ -1,14 +1,84 @@
-map(select(
-       .organisasjonsnummer == "981930010"
-    or .organisasjonsnummer == "991678840"
-    or .organisasjonsnummer == "942852010"
-    or .organisasjonsnummer == "922587140"
-    or .organisasjonsnummer == "997626389"
-    or .organisasjonsnummer == "898391132"
-    or .organisasjonsnummer == "981936914"
-    or .organisasjonsnummer == "912618900"
-    or .organisasjonsnummer == "888224572"
-    or .organisasjonsnummer == "913658345"
-    or .organisasjonsnummer == "918858717"
-    )
+( map(select(.forretningsadresse.poststed == "OSLO" and (.forretningsadresse.postnummer | startswith("015"))))
+  | map(select((.konkurs | not) and (.underAvvikling | not) and (.underTvangsavviklingEllerTvangsopplosning | not)))
+  | map(select(.naeringskode1.kode == "47.710" or .naeringskode2.kode == "47.710"))
+  | sort_by(.organisasjonsnummer)
+  | limit(2; .[])
+),
+( map(select(.forretningsadresse.poststed == "OSLO" and (.forretningsadresse.postnummer | startswith("015"))))
+  | map(select((.konkurs | not) and (.underAvvikling | not) and (.underTvangsavviklingEllerTvangsopplosning | not)))
+  | map(select(.naeringskode1.kode == "47.710" or .naeringskode2.kode == "47.710"))
+  | sort_by(.organisasjonsnummer)
+  | limit(2; .[])
+),
+( map(select(.forretningsadresse.poststed == "OSLO" and (.forretningsadresse.postnummer | startswith("015"))))
+  | map(select((.konkurs | not) and (.underAvvikling | not) and (.underTvangsavviklingEllerTvangsopplosning | not)))
+  | map(select(.naeringskode1.kode == "47.721" or .naeringskode2.kode == "47.721"))
+  | sort_by(.organisasjonsnummer)
+  | limit(2; .[])
+),
+( map(select(.forretningsadresse.poststed == "OSLO" and (.forretningsadresse.postnummer | startswith("015"))))
+  | map(select((.konkurs | not) and (.underAvvikling | not) and (.underTvangsavviklingEllerTvangsopplosning | not)))
+  | map(select(.naeringskode1.kode == "47.722" or .naeringskode2.kode == "47.722"))
+  | sort_by(.organisasjonsnummer)
+  | limit(2; .[])
+),
+( map(select(.forretningsadresse.poststed == "OSLO" and (.forretningsadresse.postnummer | startswith("015"))))
+  | map(select((.konkurs | not) and (.underAvvikling | not) and (.underTvangsavviklingEllerTvangsopplosning | not)))
+  | map(select(.naeringskode1.kode == "47.750" or .naeringskode2.kode == "47.750"))
+  | sort_by(.organisasjonsnummer)
+  | limit(2; .[])
+),
+( map(select(.forretningsadresse.poststed == "OSLO" and (.forretningsadresse.postnummer | startswith("015"))))
+  | map(select((.konkurs | not) and (.underAvvikling | not) and (.underTvangsavviklingEllerTvangsopplosning | not)))
+  | map(select(.naeringskode1.kode == "47.771" or .naeringskode2.kode == "47.771"))
+  | sort_by(.organisasjonsnummer)
+  | limit(2; .[])
+),
+( map(select(.forretningsadresse.poststed == "OSLO" and (.forretningsadresse.postnummer | startswith("015"))))
+  | map(select((.konkurs | not) and (.underAvvikling | not) and (.underTvangsavviklingEllerTvangsopplosning | not)))
+  | map(select(.naeringskode1.kode == "47.772" or .naeringskode2.kode == "47.772"))
+  | sort_by(.organisasjonsnummer)
+  | limit(2; .[])
+),
+( map(select(.forretningsadresse.poststed == "OSLO" and (.forretningsadresse.postnummer | startswith("015"))))
+  | map(select((.konkurs | not) and (.underAvvikling | not) and (.underTvangsavviklingEllerTvangsopplosning | not)))
+  | map(select(.naeringskode1.kode == "47.782" or .naeringskode2.kode == "47.782"))
+  | sort_by(.organisasjonsnummer)
+  | limit(2; .[])
+),
+( map(select(.forretningsadresse.poststed == "OSLO" and (.forretningsadresse.postnummer | startswith("015"))))
+  | map(select((.konkurs | not) and (.underAvvikling | not) and (.underTvangsavviklingEllerTvangsopplosning | not)))
+  | map(select(.naeringskode1.kode == "47.241" or .naeringskode2.kode == "47.241"))
+  | sort_by(.organisasjonsnummer)
+  | limit(2; .[])
+),
+( map(select(.forretningsadresse.poststed == "OSLO" and (.forretningsadresse.postnummer | startswith("015"))))
+  | map(select((.konkurs | not) and (.underAvvikling | not) and (.underTvangsavviklingEllerTvangsopplosning | not)))
+  | map(select(.naeringskode1.kode == "47.292" or .naeringskode2.kode == "47.292"))
+  | sort_by(.organisasjonsnummer)
+  | limit(2; .[])
+),
+( map(select(.forretningsadresse.poststed == "OSLO" and (.forretningsadresse.postnummer | startswith("015"))))
+  | map(select((.konkurs | not) and (.underAvvikling | not) and (.underTvangsavviklingEllerTvangsopplosning | not)))
+  | map(select(.naeringskode1.kode == "56.101" or .naeringskode2.kode == "56.101"))
+  | sort_by(.organisasjonsnummer)
+  | limit(2; .[])
+),
+( map(select(.forretningsadresse.poststed == "OSLO" and (.forretningsadresse.postnummer | startswith("015"))))
+  | map(select((.konkurs | not) and (.underAvvikling | not) and (.underTvangsavviklingEllerTvangsopplosning | not)))
+  | map(select(.naeringskode1.kode == "56.102" or .naeringskode2.kode == "56.102"))
+  | sort_by(.organisasjonsnummer)
+  | limit(2; .[])
+),
+( map(select(.forretningsadresse.poststed == "OSLO" and (.forretningsadresse.postnummer | startswith("015"))))
+  | map(select((.konkurs | not) and (.underAvvikling | not) and (.underTvangsavviklingEllerTvangsopplosning | not)))
+  | map(select(.naeringskode1.kode == "56.301" or .naeringskode2.kode == "56.301"))
+  | sort_by(.organisasjonsnummer)
+  | limit(2; .[])
+),
+( map(select(.forretningsadresse.poststed == "OSLO" and (.forretningsadresse.postnummer | startswith("015"))))
+  | map(select((.konkurs | not) and (.underAvvikling | not) and (.underTvangsavviklingEllerTvangsopplosning | not)))
+  | map(select(.naeringskode1.kode == "56.309" or .naeringskode2.kode == "56.309"))
+  | sort_by(.organisasjonsnummer)
+  | limit(2; .[])
 )

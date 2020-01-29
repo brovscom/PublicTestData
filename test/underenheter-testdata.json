@@ -817,6 +817,36 @@
     "links": []
   },
   {
+    "organisasjonsnummer": "919987693",
+    "navn": "FOOD FOLK GROUP HOLDINGS AS",
+    "organisasjonsform": {
+      "kode": "BEDR",
+      "beskrivelse": "Bedrift",
+      "links": []
+    },
+    "registreringsdatoEnhetsregisteret": "2017-11-30",
+    "registrertIMvaregisteret": false,
+    "naeringskode1": {
+      "beskrivelse": "Drift av restauranter og kafeer",
+      "kode": "56.101"
+    },
+    "antallAnsatte": 2,
+    "overordnetEnhet": "817906222",
+    "oppstartsdato": "2017-11-28",
+    "beliggenhetsadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0155",
+      "poststed": "OSLO",
+      "adresse": [
+        "Storgata 15"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301"
+    },
+    "links": []
+  },
+  {
     "organisasjonsnummer": "992088605",
     "navn": "GOLESTAN KEBAB SHERKO SHERKO Z AHMED",
     "organisasjonsform": {
@@ -2610,6 +2640,90 @@
     "links": []
   },
   {
+    "organisasjonsnummer": "923052771",
+    "navn": "PICCOLO PADADISO PILESTREDET AS",
+    "organisasjonsform": {
+      "kode": "BEDR",
+      "beskrivelse": "Bedrift",
+      "links": []
+    },
+    "postadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0553",
+      "poststed": "OSLO",
+      "adresse": [
+        "c/o Paradiso Eiendom AS",
+        "Københavngata 2A"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301"
+    },
+    "registreringsdatoEnhetsregisteret": "2019-07-09",
+    "registrertIMvaregisteret": false,
+    "naeringskode1": {
+      "beskrivelse": "Drift av restauranter og kafeer",
+      "kode": "56.101"
+    },
+    "antallAnsatte": 49,
+    "overordnetEnhet": "818779372",
+    "oppstartsdato": "2019-07-08",
+    "beliggenhetsadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0159",
+      "poststed": "OSLO",
+      "adresse": [
+        "Grensen 10"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301"
+    },
+    "links": []
+  },
+  {
+    "organisasjonsnummer": "976587715",
+    "navn": "RICE BOWL AS",
+    "organisasjonsform": {
+      "kode": "BEDR",
+      "beskrivelse": "Bedrift",
+      "links": []
+    },
+    "postadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0194",
+      "poststed": "OSLO",
+      "adresse": [
+        "Sørengkaia 84"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301"
+    },
+    "registreringsdatoEnhetsregisteret": "1996-07-17",
+    "registrertIMvaregisteret": false,
+    "naeringskode1": {
+      "beskrivelse": "Drift av restauranter og kafeer",
+      "kode": "56.101"
+    },
+    "antallAnsatte": 14,
+    "overordnetEnhet": "819063052",
+    "oppstartsdato": "1996-06-01",
+    "datoEierskifte": "2017-06-12",
+    "beliggenhetsadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0152",
+      "poststed": "OSLO",
+      "adresse": [
+        "Tollbugata 17"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301"
+    },
+    "links": []
+  },
+  {
     "organisasjonsnummer": "919901314",
     "navn": "RITUALS COSMETICS NORWAY AS AVD OSLO AKER BRYGGE",
     "organisasjonsform": {
@@ -2758,6 +2872,37 @@
       "poststed": "OSLO",
       "adresse": [
         "Stortorvet 2"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301"
+    },
+    "links": []
+  },
+  {
+    "organisasjonsnummer": "971845996",
+    "navn": "SELSKAPSLOKALER AS",
+    "organisasjonsform": {
+      "kode": "BEDR",
+      "beskrivelse": "Bedrift",
+      "links": []
+    },
+    "hjemmeside": "www.selskaper.no",
+    "registreringsdatoEnhetsregisteret": "1995-02-22",
+    "registrertIMvaregisteret": false,
+    "naeringskode1": {
+      "beskrivelse": "Drift av restauranter og kafeer",
+      "kode": "56.101"
+    },
+    "antallAnsatte": 30,
+    "overordnetEnhet": "831149922",
+    "oppstartsdato": "1970-12-30",
+    "beliggenhetsadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0151",
+      "poststed": "OSLO",
+      "adresse": [
+        "Myntgata 3"
       ],
       "kommune": "OSLO",
       "kommunenummer": "0301"

@@ -1,0 +1,1441 @@
+[
+  {
+    "organisasjonsnummer": "914114063",
+    "navn": "A. C. PERCHS THEHANDEL NORGE AS",
+    "organisasjonsform": {
+      "kode": "AS",
+      "beskrivelse": "Aksjeselskap",
+      "links": []
+    },
+    "hjemmeside": "www.perchs.dk",
+    "registreringsdatoEnhetsregisteret": "2014-09-05",
+    "registrertIMvaregisteret": true,
+    "naeringskode1": {
+      "beskrivelse": "Butikkhandel med kaffe og te",
+      "kode": "47.292"
+    },
+    "antallAnsatte": 15,
+    "forretningsadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0153",
+      "poststed": "OSLO",
+      "adresse": [
+        "Kirkegata 5"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301"
+    },
+    "stiftelsesdato": "2014-07-01",
+    "institusjonellSektorkode": {
+      "kode": "2100",
+      "beskrivelse": "Private aksjeselskaper mv."
+    },
+    "registrertIForetaksregisteret": true,
+    "registrertIStiftelsesregisteret": false,
+    "registrertIFrivillighetsregisteret": false,
+    "sisteInnsendteAarsregnskap": "2019",
+    "konkurs": false,
+    "underAvvikling": false,
+    "underTvangsavviklingEllerTvangsopplosning": false,
+    "maalform": "Bokmål",
+    "links": []
+  },
+  {
+    "organisasjonsnummer": "942852010",
+    "navn": "AS THEA",
+    "organisasjonsform": {
+      "kode": "AS",
+      "beskrivelse": "Aksjeselskap",
+      "links": []
+    },
+    "registreringsdatoEnhetsregisteret": "1995-02-19",
+    "registrertIMvaregisteret": true,
+    "naeringskode1": {
+      "beskrivelse": "Drift av restauranter og kafeer",
+      "kode": "56.101"
+    },
+    "antallAnsatte": 22,
+    "forretningsadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0272",
+      "poststed": "OSLO",
+      "adresse": [
+        "Gabels gate 11"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301"
+    },
+    "stiftelsesdato": "1986-10-13",
+    "institusjonellSektorkode": {
+      "kode": "2100",
+      "beskrivelse": "Private aksjeselskaper mv."
+    },
+    "registrertIForetaksregisteret": true,
+    "registrertIStiftelsesregisteret": false,
+    "registrertIFrivillighetsregisteret": false,
+    "sisteInnsendteAarsregnskap": "2018",
+    "konkurs": false,
+    "underAvvikling": false,
+    "underTvangsavviklingEllerTvangsopplosning": false,
+    "maalform": "Bokmål",
+    "links": []
+  },
+  {
+    "organisasjonsnummer": "878629892",
+    "navn": "B & S Yan Hong Liang",
+    "organisasjonsform": {
+      "kode": "ENK",
+      "beskrivelse": "Enkeltpersonforetak",
+      "links": []
+    },
+    "postadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0650",
+      "poststed": "OSLO",
+      "adresse": [
+        "Leilighet 52",
+        "Borggata 6"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301"
+    },
+    "registreringsdatoEnhetsregisteret": "1997-06-16",
+    "registrertIMvaregisteret": false,
+    "naeringskode1": {
+      "beskrivelse": "Butikkhandel med kosmetikk og toalettartikler",
+      "kode": "47.750"
+    },
+    "antallAnsatte": 0,
+    "forretningsadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0157",
+      "poststed": "OSLO",
+      "adresse": [
+        "Øvre Slottsgate 27"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301"
+    },
+    "institusjonellSektorkode": {
+      "kode": "8200",
+      "beskrivelse": "Personlig næringsdrivende"
+    },
+    "registrertIForetaksregisteret": true,
+    "registrertIStiftelsesregisteret": false,
+    "registrertIFrivillighetsregisteret": false,
+    "konkurs": false,
+    "underAvvikling": false,
+    "underTvangsavviklingEllerTvangsopplosning": false,
+    "maalform": "Bokmål",
+    "links": []
+  },
+  {
+    "organisasjonsnummer": "824058202",
+    "navn": "BAGORAMA BYPORTEN AS",
+    "organisasjonsform": {
+      "kode": "AS",
+      "beskrivelse": "Aksjeselskap",
+      "links": []
+    },
+    "postadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "1793",
+      "poststed": "TISTEDAL",
+      "adresse": [
+        "c/o Sajaco Nordic AS",
+        "Høstbakken 11"
+      ],
+      "kommune": "HALDEN",
+      "kommunenummer": "3001"
+    },
+    "registreringsdatoEnhetsregisteret": "2019-12-10",
+    "registrertIMvaregisteret": true,
+    "naeringskode1": {
+      "beskrivelse": "Butikkhandel med reiseeffekter av lær og lærimitasjoner og varer av lær",
+      "kode": "47.722"
+    },
+    "antallAnsatte": 0,
+    "forretningsadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0154",
+      "poststed": "OSLO",
+      "adresse": [
+        "Byporten Shopping",
+        "Jernbanetorget 6"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301"
+    },
+    "stiftelsesdato": "2019-11-21",
+    "institusjonellSektorkode": {
+      "kode": "2100",
+      "beskrivelse": "Private aksjeselskaper mv."
+    },
+    "registrertIForetaksregisteret": true,
+    "registrertIStiftelsesregisteret": false,
+    "registrertIFrivillighetsregisteret": false,
+    "konkurs": false,
+    "underAvvikling": false,
+    "underTvangsavviklingEllerTvangsopplosning": false,
+    "maalform": "Bokmål",
+    "links": []
+  },
+  {
+    "organisasjonsnummer": "913337441",
+    "navn": "BAKERI RÅDHUSET AS",
+    "organisasjonsform": {
+      "kode": "AS",
+      "beskrivelse": "Aksjeselskap",
+      "links": []
+    },
+    "hjemmeside": "bakerhansen.no",
+    "postadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0751",
+      "poststed": "OSLO",
+      "adresse": [
+        "c/o Lene H. Søyland",
+        "Vækerøveien 198B"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301"
+    },
+    "registreringsdatoEnhetsregisteret": "2014-03-12",
+    "registrertIMvaregisteret": true,
+    "naeringskode1": {
+      "beskrivelse": "Butikkhandel med bakervarer og konditorvarer",
+      "kode": "47.241"
+    },
+    "antallAnsatte": 10,
+    "forretningsadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0158",
+      "poststed": "OSLO",
+      "adresse": [
+        "Rådhusgata 21"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301"
+    },
+    "stiftelsesdato": "2014-02-24",
+    "institusjonellSektorkode": {
+      "kode": "2100",
+      "beskrivelse": "Private aksjeselskaper mv."
+    },
+    "registrertIForetaksregisteret": true,
+    "registrertIStiftelsesregisteret": false,
+    "registrertIFrivillighetsregisteret": false,
+    "sisteInnsendteAarsregnskap": "2018",
+    "konkurs": false,
+    "underAvvikling": false,
+    "underTvangsavviklingEllerTvangsopplosning": false,
+    "maalform": "Bokmål",
+    "links": []
+  },
+  {
+    "organisasjonsnummer": "981930010",
+    "navn": "BIK BOK AS",
+    "organisasjonsform": {
+      "kode": "AS",
+      "beskrivelse": "Aksjeselskap",
+      "links": []
+    },
+    "postadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "1377",
+      "poststed": "BILLINGSTAD",
+      "adresse": [
+        "Postboks 194"
+      ],
+      "kommune": "ASKER",
+      "kommunenummer": "3025"
+    },
+    "registreringsdatoEnhetsregisteret": "2000-05-02",
+    "registrertIMvaregisteret": true,
+    "naeringskode1": {
+      "beskrivelse": "Butikkhandel med klær",
+      "kode": "47.710"
+    },
+    "antallAnsatte": 743,
+    "forretningsadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "1396",
+      "poststed": "BILLINGSTAD",
+      "adresse": [
+        "Nesøyveien 4"
+      ],
+      "kommune": "ASKER",
+      "kommunenummer": "3025"
+    },
+    "stiftelsesdato": "1999-12-20",
+    "institusjonellSektorkode": {
+      "kode": "2100",
+      "beskrivelse": "Private aksjeselskaper mv."
+    },
+    "registrertIForetaksregisteret": true,
+    "registrertIStiftelsesregisteret": false,
+    "registrertIFrivillighetsregisteret": false,
+    "sisteInnsendteAarsregnskap": "2018",
+    "konkurs": false,
+    "underAvvikling": false,
+    "underTvangsavviklingEllerTvangsopplosning": false,
+    "maalform": "Bokmål",
+    "links": []
+  },
+  {
+    "organisasjonsnummer": "914215889",
+    "navn": "BLUE NIGHT AS",
+    "organisasjonsform": {
+      "kode": "AS",
+      "beskrivelse": "Aksjeselskap",
+      "links": []
+    },
+    "registreringsdatoEnhetsregisteret": "2014-09-26",
+    "registrertIMvaregisteret": true,
+    "naeringskode1": {
+      "beskrivelse": "Drift av puber",
+      "kode": "56.301"
+    },
+    "antallAnsatte": 6,
+    "forretningsadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0151",
+      "poststed": "OSLO",
+      "adresse": [
+        "Rådhusgata 4"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301"
+    },
+    "stiftelsesdato": "2014-09-17",
+    "institusjonellSektorkode": {
+      "kode": "2100",
+      "beskrivelse": "Private aksjeselskaper mv."
+    },
+    "registrertIForetaksregisteret": true,
+    "registrertIStiftelsesregisteret": false,
+    "registrertIFrivillighetsregisteret": false,
+    "sisteInnsendteAarsregnskap": "2018",
+    "konkurs": false,
+    "underAvvikling": false,
+    "underTvangsavviklingEllerTvangsopplosning": false,
+    "maalform": "Bokmål",
+    "links": []
+  },
+  {
+    "organisasjonsnummer": "816254922",
+    "navn": "BOLOGNA HOLDING AS",
+    "organisasjonsform": {
+      "kode": "AS",
+      "beskrivelse": "Aksjeselskap",
+      "links": []
+    },
+    "registreringsdatoEnhetsregisteret": "2015-11-23",
+    "registrertIMvaregisteret": false,
+    "naeringskode1": {
+      "beskrivelse": "Drift av restauranter og kafeer",
+      "kode": "56.101"
+    },
+    "naeringskode2": {
+      "beskrivelse": "Hovedkontortjenester",
+      "kode": "70.100",
+      "hjelpeenhetskode": true
+    },
+    "antallAnsatte": 0,
+    "forretningsadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0154",
+      "poststed": "OSLO",
+      "adresse": [
+        "c/o Mamma Pizza",
+        "Dronningens gate 22"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301"
+    },
+    "stiftelsesdato": "2015-11-02",
+    "institusjonellSektorkode": {
+      "kode": "2100",
+      "beskrivelse": "Private aksjeselskaper mv."
+    },
+    "registrertIForetaksregisteret": true,
+    "registrertIStiftelsesregisteret": false,
+    "registrertIFrivillighetsregisteret": false,
+    "sisteInnsendteAarsregnskap": "2018",
+    "konkurs": false,
+    "underAvvikling": false,
+    "underTvangsavviklingEllerTvangsopplosning": false,
+    "maalform": "Bokmål",
+    "links": []
+  },
+  {
+    "organisasjonsnummer": "889234962",
+    "navn": "BRILLESPESIALISTEN AS",
+    "organisasjonsform": {
+      "kode": "AS",
+      "beskrivelse": "Aksjeselskap",
+      "links": []
+    },
+    "registreringsdatoEnhetsregisteret": "2006-01-21",
+    "registrertIMvaregisteret": true,
+    "naeringskode1": {
+      "beskrivelse": "Butikkhandel med optiske artikler",
+      "kode": "47.782"
+    },
+    "antallAnsatte": 4,
+    "forretningsadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0155",
+      "poststed": "OSLO",
+      "adresse": [
+        "Storgata 2"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301"
+    },
+    "stiftelsesdato": "2005-12-23",
+    "institusjonellSektorkode": {
+      "kode": "2100",
+      "beskrivelse": "Private aksjeselskaper mv."
+    },
+    "registrertIForetaksregisteret": true,
+    "registrertIStiftelsesregisteret": false,
+    "registrertIFrivillighetsregisteret": false,
+    "sisteInnsendteAarsregnskap": "2018",
+    "konkurs": false,
+    "underAvvikling": false,
+    "underTvangsavviklingEllerTvangsopplosning": false,
+    "maalform": "Bokmål",
+    "links": []
+  },
+  {
+    "organisasjonsnummer": "814599892",
+    "navn": "CUISINE VITAMIN AS",
+    "organisasjonsform": {
+      "kode": "AS",
+      "beskrivelse": "Aksjeselskap",
+      "links": []
+    },
+    "hjemmeside": "www.bakerhansen.no",
+    "postadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0168",
+      "poststed": "OSLO",
+      "adresse": [
+        "C/O Giang Kim Hoang",
+        "Wilhelms gate 1"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301"
+    },
+    "registreringsdatoEnhetsregisteret": "2014-12-11",
+    "registrertIMvaregisteret": true,
+    "naeringskode1": {
+      "beskrivelse": "Butikkhandel med bakervarer og konditorvarer",
+      "kode": "47.241"
+    },
+    "antallAnsatte": 14,
+    "forretningsadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0153",
+      "poststed": "OSLO",
+      "adresse": [
+        "Kirkegata 15"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301"
+    },
+    "stiftelsesdato": "2014-11-06",
+    "institusjonellSektorkode": {
+      "kode": "2100",
+      "beskrivelse": "Private aksjeselskaper mv."
+    },
+    "registrertIForetaksregisteret": true,
+    "registrertIStiftelsesregisteret": false,
+    "registrertIFrivillighetsregisteret": false,
+    "sisteInnsendteAarsregnskap": "2018",
+    "konkurs": false,
+    "underAvvikling": false,
+    "underTvangsavviklingEllerTvangsopplosning": false,
+    "maalform": "Bokmål",
+    "links": []
+  },
+  {
+    "organisasjonsnummer": "917762953",
+    "navn": "ERLIK KAFFE AS",
+    "organisasjonsform": {
+      "kode": "AS",
+      "beskrivelse": "Aksjeselskap",
+      "links": []
+    },
+    "registreringsdatoEnhetsregisteret": "2016-10-03",
+    "registrertIMvaregisteret": true,
+    "naeringskode1": {
+      "beskrivelse": "Drift av barer ellers",
+      "kode": "56.309"
+    },
+    "antallAnsatte": 54,
+    "forretningsadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0152",
+      "poststed": "OSLO",
+      "adresse": [
+        "Skippergata 14"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301"
+    },
+    "stiftelsesdato": "2016-08-23",
+    "institusjonellSektorkode": {
+      "kode": "2100",
+      "beskrivelse": "Private aksjeselskaper mv."
+    },
+    "registrertIForetaksregisteret": true,
+    "registrertIStiftelsesregisteret": false,
+    "registrertIFrivillighetsregisteret": false,
+    "sisteInnsendteAarsregnskap": "2018",
+    "konkurs": false,
+    "underAvvikling": false,
+    "underTvangsavviklingEllerTvangsopplosning": false,
+    "maalform": "Bokmål",
+    "links": []
+  },
+  {
+    "organisasjonsnummer": "915380344",
+    "navn": "EYEFACTORY AS",
+    "organisasjonsform": {
+      "kode": "AS",
+      "beskrivelse": "Aksjeselskap",
+      "links": []
+    },
+    "registreringsdatoEnhetsregisteret": "2015-05-13",
+    "registrertIMvaregisteret": true,
+    "naeringskode1": {
+      "beskrivelse": "Butikkhandel med optiske artikler",
+      "kode": "47.782"
+    },
+    "antallAnsatte": 1,
+    "forretningsadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0159",
+      "poststed": "OSLO",
+      "adresse": [
+        "Grensen 17"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301"
+    },
+    "stiftelsesdato": "2015-05-04",
+    "institusjonellSektorkode": {
+      "kode": "2100",
+      "beskrivelse": "Private aksjeselskaper mv."
+    },
+    "registrertIForetaksregisteret": true,
+    "registrertIStiftelsesregisteret": false,
+    "registrertIFrivillighetsregisteret": false,
+    "sisteInnsendteAarsregnskap": "2018",
+    "konkurs": false,
+    "underAvvikling": false,
+    "underTvangsavviklingEllerTvangsopplosning": false,
+    "maalform": "Bokmål",
+    "links": []
+  },
+  {
+    "organisasjonsnummer": "895802042",
+    "navn": "GOLESTAN KEBAB SHERKO Sherko Z Ahmed",
+    "organisasjonsform": {
+      "kode": "ENK",
+      "beskrivelse": "Enkeltpersonforetak",
+      "links": []
+    },
+    "registreringsdatoEnhetsregisteret": "2010-08-10",
+    "registrertIMvaregisteret": false,
+    "naeringskode1": {
+      "beskrivelse": "Drift av gatekjøkken",
+      "kode": "56.102"
+    },
+    "antallAnsatte": 0,
+    "forretningsadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0151",
+      "poststed": "OSLO",
+      "adresse": [
+        "Rådhusgata 30"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301"
+    },
+    "institusjonellSektorkode": {
+      "kode": "8200",
+      "beskrivelse": "Personlig næringsdrivende"
+    },
+    "registrertIForetaksregisteret": true,
+    "registrertIStiftelsesregisteret": false,
+    "registrertIFrivillighetsregisteret": false,
+    "konkurs": false,
+    "underAvvikling": false,
+    "underTvangsavviklingEllerTvangsopplosning": false,
+    "maalform": "Bokmål",
+    "links": []
+  },
+  {
+    "organisasjonsnummer": "865700822",
+    "navn": "GULLSMED KAULUM BYPORTEN AS",
+    "organisasjonsform": {
+      "kode": "AS",
+      "beskrivelse": "Aksjeselskap",
+      "links": []
+    },
+    "registreringsdatoEnhetsregisteret": "1995-02-19",
+    "registrertIMvaregisteret": true,
+    "naeringskode1": {
+      "beskrivelse": "Butikkhandel med gull- og sølvvarer",
+      "kode": "47.772"
+    },
+    "antallAnsatte": 9,
+    "forretningsadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0154",
+      "poststed": "OSLO",
+      "adresse": [
+        "Jernbanetorget 6"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301"
+    },
+    "stiftelsesdato": "1992-12-09",
+    "institusjonellSektorkode": {
+      "kode": "2100",
+      "beskrivelse": "Private aksjeselskaper mv."
+    },
+    "registrertIForetaksregisteret": true,
+    "registrertIStiftelsesregisteret": false,
+    "registrertIFrivillighetsregisteret": false,
+    "sisteInnsendteAarsregnskap": "2018",
+    "konkurs": false,
+    "underAvvikling": false,
+    "underTvangsavviklingEllerTvangsopplosning": false,
+    "maalform": "Bokmål",
+    "links": []
+  },
+  {
+    "organisasjonsnummer": "912618900",
+    "navn": "H & M HENNES & MAURITZ AS",
+    "organisasjonsform": {
+      "kode": "AS",
+      "beskrivelse": "Aksjeselskap",
+      "links": []
+    },
+    "postadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0614",
+      "poststed": "OSLO",
+      "adresse": [
+        "Postboks 68 Alnabru"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301"
+    },
+    "registreringsdatoEnhetsregisteret": "1995-02-19",
+    "registrertIMvaregisteret": true,
+    "naeringskode1": {
+      "beskrivelse": "Butikkhandel med klær",
+      "kode": "47.710"
+    },
+    "naeringskode2": {
+      "beskrivelse": "Postordre-/Internetthandel med tekstiler, utstyrsvarer, klær, skotøy, reiseeffekter og lærvarer",
+      "kode": "47.912"
+    },
+    "antallAnsatte": 3330,
+    "forretningsadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0154",
+      "poststed": "OSLO",
+      "adresse": [
+        "Karl Johans gate 14"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301"
+    },
+    "stiftelsesdato": "1959-12-30",
+    "institusjonellSektorkode": {
+      "kode": "2100",
+      "beskrivelse": "Private aksjeselskaper mv."
+    },
+    "registrertIForetaksregisteret": true,
+    "registrertIStiftelsesregisteret": false,
+    "registrertIFrivillighetsregisteret": false,
+    "sisteInnsendteAarsregnskap": "2018",
+    "konkurs": false,
+    "underAvvikling": false,
+    "underTvangsavviklingEllerTvangsopplosning": false,
+    "maalform": "Bokmål",
+    "links": []
+  },
+  {
+    "organisasjonsnummer": "875965492",
+    "navn": "IRENE HØYLAND AS",
+    "organisasjonsform": {
+      "kode": "AS",
+      "beskrivelse": "Aksjeselskap",
+      "links": []
+    },
+    "registreringsdatoEnhetsregisteret": "1996-01-02",
+    "registrertIMvaregisteret": true,
+    "naeringskode1": {
+      "beskrivelse": "Butikkhandel med skotøy",
+      "kode": "47.721"
+    },
+    "antallAnsatte": 29,
+    "forretningsadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0158",
+      "poststed": "OSLO",
+      "adresse": [
+        "Akersgata 43"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301"
+    },
+    "stiftelsesdato": "1995-12-19",
+    "institusjonellSektorkode": {
+      "kode": "2100",
+      "beskrivelse": "Private aksjeselskaper mv."
+    },
+    "registrertIForetaksregisteret": true,
+    "registrertIStiftelsesregisteret": false,
+    "registrertIFrivillighetsregisteret": false,
+    "sisteInnsendteAarsregnskap": "2018",
+    "konkurs": false,
+    "underAvvikling": false,
+    "underTvangsavviklingEllerTvangsopplosning": false,
+    "maalform": "Bokmål",
+    "links": []
+  },
+  {
+    "organisasjonsnummer": "888224572",
+    "navn": "JEWEL OF INDIA AS",
+    "organisasjonsform": {
+      "kode": "AS",
+      "beskrivelse": "Aksjeselskap",
+      "links": []
+    },
+    "postadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "1410",
+      "poststed": "KOLBOTN",
+      "adresse": [
+        "Johan Svendsens vei 27"
+      ],
+      "kommune": "NORDRE FOLLO",
+      "kommunenummer": "3020"
+    },
+    "registreringsdatoEnhetsregisteret": "2005-05-18",
+    "registrertIMvaregisteret": true,
+    "naeringskode1": {
+      "beskrivelse": "Drift av restauranter og kafeer",
+      "kode": "56.101"
+    },
+    "antallAnsatte": 47,
+    "forretningsadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0256",
+      "poststed": "OSLO",
+      "adresse": [
+        "Oscars gate 81"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301"
+    },
+    "stiftelsesdato": "2005-04-30",
+    "institusjonellSektorkode": {
+      "kode": "2100",
+      "beskrivelse": "Private aksjeselskaper mv."
+    },
+    "registrertIForetaksregisteret": true,
+    "registrertIStiftelsesregisteret": false,
+    "registrertIFrivillighetsregisteret": false,
+    "sisteInnsendteAarsregnskap": "2018",
+    "konkurs": false,
+    "underAvvikling": false,
+    "underTvangsavviklingEllerTvangsopplosning": false,
+    "maalform": "Bokmål",
+    "links": []
+  },
+  {
+    "organisasjonsnummer": "813370042",
+    "navn": "KIRKERISTEN SKO AS",
+    "organisasjonsform": {
+      "kode": "AS",
+      "beskrivelse": "Aksjeselskap",
+      "links": []
+    },
+    "registreringsdatoEnhetsregisteret": "1995-02-19",
+    "registrertIMvaregisteret": true,
+    "naeringskode1": {
+      "beskrivelse": "Butikkhandel med skotøy",
+      "kode": "47.721"
+    },
+    "antallAnsatte": 0,
+    "forretningsadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0154",
+      "poststed": "OSLO",
+      "adresse": [
+        "Dronningens gate 27"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301"
+    },
+    "stiftelsesdato": "1971-09-29",
+    "institusjonellSektorkode": {
+      "kode": "2100",
+      "beskrivelse": "Private aksjeselskaper mv."
+    },
+    "registrertIForetaksregisteret": true,
+    "registrertIStiftelsesregisteret": false,
+    "registrertIFrivillighetsregisteret": false,
+    "sisteInnsendteAarsregnskap": "2018",
+    "konkurs": false,
+    "underAvvikling": false,
+    "underTvangsavviklingEllerTvangsopplosning": false,
+    "maalform": "Bokmål",
+    "links": []
+  },
+  {
+    "organisasjonsnummer": "913950240",
+    "navn": "LETT OG GODT AS",
+    "organisasjonsform": {
+      "kode": "AS",
+      "beskrivelse": "Aksjeselskap",
+      "links": []
+    },
+    "registreringsdatoEnhetsregisteret": "2014-07-31",
+    "registrertIMvaregisteret": false,
+    "naeringskode1": {
+      "beskrivelse": "Drift av gatekjøkken",
+      "kode": "56.102"
+    },
+    "antallAnsatte": 0,
+    "forretningsadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0154",
+      "poststed": "OSLO",
+      "adresse": [
+        "Jernbanetorget 6"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301"
+    },
+    "stiftelsesdato": "2014-07-01",
+    "institusjonellSektorkode": {
+      "kode": "2100",
+      "beskrivelse": "Private aksjeselskaper mv."
+    },
+    "registrertIForetaksregisteret": true,
+    "registrertIStiftelsesregisteret": false,
+    "registrertIFrivillighetsregisteret": false,
+    "sisteInnsendteAarsregnskap": "2018",
+    "konkurs": false,
+    "underAvvikling": false,
+    "underTvangsavviklingEllerTvangsopplosning": false,
+    "maalform": "Bokmål",
+    "links": []
+  },
+  {
+    "organisasjonsnummer": "819282102",
+    "navn": "LINDEX AS",
+    "organisasjonsform": {
+      "kode": "AS",
+      "beskrivelse": "Aksjeselskap",
+      "links": []
+    },
+    "hjemmeside": "www.lindex.no",
+    "postadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0101",
+      "poststed": "OSLO",
+      "adresse": [
+        "Postboks 348  Sentrum"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301"
+    },
+    "registreringsdatoEnhetsregisteret": "1995-02-19",
+    "registrertIMvaregisteret": true,
+    "naeringskode1": {
+      "beskrivelse": "Butikkhandel med klær",
+      "kode": "47.710"
+    },
+    "antallAnsatte": 1120,
+    "forretningsadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0158",
+      "poststed": "OSLO",
+      "adresse": [
+        "Akersgata 28"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301"
+    },
+    "stiftelsesdato": "1969-07-03",
+    "institusjonellSektorkode": {
+      "kode": "2100",
+      "beskrivelse": "Private aksjeselskaper mv."
+    },
+    "registrertIForetaksregisteret": true,
+    "registrertIStiftelsesregisteret": false,
+    "registrertIFrivillighetsregisteret": false,
+    "sisteInnsendteAarsregnskap": "2018",
+    "konkurs": false,
+    "underAvvikling": false,
+    "underTvangsavviklingEllerTvangsopplosning": false,
+    "maalform": "Bokmål",
+    "links": []
+  },
+  {
+    "organisasjonsnummer": "819282102",
+    "navn": "LINDEX AS",
+    "organisasjonsform": {
+      "kode": "AS",
+      "beskrivelse": "Aksjeselskap",
+      "links": []
+    },
+    "hjemmeside": "www.lindex.no",
+    "postadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0101",
+      "poststed": "OSLO",
+      "adresse": [
+        "Postboks 348  Sentrum"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301"
+    },
+    "registreringsdatoEnhetsregisteret": "1995-02-19",
+    "registrertIMvaregisteret": true,
+    "naeringskode1": {
+      "beskrivelse": "Butikkhandel med klær",
+      "kode": "47.710"
+    },
+    "antallAnsatte": 1120,
+    "forretningsadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0158",
+      "poststed": "OSLO",
+      "adresse": [
+        "Akersgata 28"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301"
+    },
+    "stiftelsesdato": "1969-07-03",
+    "institusjonellSektorkode": {
+      "kode": "2100",
+      "beskrivelse": "Private aksjeselskaper mv."
+    },
+    "registrertIForetaksregisteret": true,
+    "registrertIStiftelsesregisteret": false,
+    "registrertIFrivillighetsregisteret": false,
+    "sisteInnsendteAarsregnskap": "2018",
+    "konkurs": false,
+    "underAvvikling": false,
+    "underTvangsavviklingEllerTvangsopplosning": false,
+    "maalform": "Bokmål",
+    "links": []
+  },
+  {
+    "organisasjonsnummer": "920920551",
+    "navn": "MAANESTEN AS",
+    "organisasjonsform": {
+      "kode": "AS",
+      "beskrivelse": "Aksjeselskap",
+      "links": []
+    },
+    "registreringsdatoEnhetsregisteret": "2018-06-16",
+    "registrertIMvaregisteret": true,
+    "naeringskode1": {
+      "beskrivelse": "Butikkhandel med ur og klokker",
+      "kode": "47.771"
+    },
+    "antallAnsatte": 18,
+    "forretningsadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0157",
+      "poststed": "OSLO",
+      "adresse": [
+        "Prinsens gate 22"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301"
+    },
+    "stiftelsesdato": "2018-03-14",
+    "institusjonellSektorkode": {
+      "kode": "2100",
+      "beskrivelse": "Private aksjeselskaper mv."
+    },
+    "registrertIForetaksregisteret": true,
+    "registrertIStiftelsesregisteret": false,
+    "registrertIFrivillighetsregisteret": false,
+    "sisteInnsendteAarsregnskap": "2019",
+    "konkurs": false,
+    "underAvvikling": false,
+    "underTvangsavviklingEllerTvangsopplosning": false,
+    "maalform": "Bokmål",
+    "links": []
+  },
+  {
+    "organisasjonsnummer": "821196892",
+    "navn": "MODA NUOVA FASHION NORGE AS",
+    "organisasjonsform": {
+      "kode": "AS",
+      "beskrivelse": "Aksjeselskap",
+      "links": []
+    },
+    "hjemmeside": "www.hollies.se",
+    "registreringsdatoEnhetsregisteret": "2018-08-06",
+    "registrertIMvaregisteret": false,
+    "naeringskode1": {
+      "beskrivelse": "Butikkhandel med klær",
+      "kode": "47.710"
+    },
+    "antallAnsatte": 0,
+    "forretningsadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0151",
+      "poststed": "OSLO",
+      "adresse": [
+        "c/o Avanse Regnskap AS",
+        "Grev Wedels plass 5"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301"
+    },
+    "stiftelsesdato": "2018-06-11",
+    "institusjonellSektorkode": {
+      "kode": "2100",
+      "beskrivelse": "Private aksjeselskaper mv."
+    },
+    "registrertIForetaksregisteret": true,
+    "registrertIStiftelsesregisteret": false,
+    "registrertIFrivillighetsregisteret": false,
+    "sisteInnsendteAarsregnskap": "2018",
+    "konkurs": false,
+    "underAvvikling": false,
+    "underTvangsavviklingEllerTvangsopplosning": false,
+    "maalform": "Bokmål",
+    "links": []
+  },
+  {
+    "organisasjonsnummer": "821196892",
+    "navn": "MODA NUOVA FASHION NORGE AS",
+    "organisasjonsform": {
+      "kode": "AS",
+      "beskrivelse": "Aksjeselskap",
+      "links": []
+    },
+    "hjemmeside": "www.hollies.se",
+    "registreringsdatoEnhetsregisteret": "2018-08-06",
+    "registrertIMvaregisteret": false,
+    "naeringskode1": {
+      "beskrivelse": "Butikkhandel med klær",
+      "kode": "47.710"
+    },
+    "antallAnsatte": 0,
+    "forretningsadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0151",
+      "poststed": "OSLO",
+      "adresse": [
+        "c/o Avanse Regnskap AS",
+        "Grev Wedels plass 5"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301"
+    },
+    "stiftelsesdato": "2018-06-11",
+    "institusjonellSektorkode": {
+      "kode": "2100",
+      "beskrivelse": "Private aksjeselskaper mv."
+    },
+    "registrertIForetaksregisteret": true,
+    "registrertIStiftelsesregisteret": false,
+    "registrertIFrivillighetsregisteret": false,
+    "sisteInnsendteAarsregnskap": "2018",
+    "konkurs": false,
+    "underAvvikling": false,
+    "underTvangsavviklingEllerTvangsopplosning": false,
+    "maalform": "Bokmål",
+    "links": []
+  },
+  {
+    "organisasjonsnummer": "961545684",
+    "navn": "MULBERRY OSLO AS",
+    "organisasjonsform": {
+      "kode": "AS",
+      "beskrivelse": "Aksjeselskap",
+      "links": []
+    },
+    "registreringsdatoEnhetsregisteret": "1995-03-12",
+    "registrertIMvaregisteret": true,
+    "naeringskode1": {
+      "beskrivelse": "Butikkhandel med reiseeffekter av lær og lærimitasjoner og varer av lær",
+      "kode": "47.722"
+    },
+    "antallAnsatte": 21,
+    "forretningsadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0157",
+      "poststed": "OSLO",
+      "adresse": [
+        "Nedre Slottsgate 8"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301"
+    },
+    "stiftelsesdato": "1991-08-21",
+    "institusjonellSektorkode": {
+      "kode": "2100",
+      "beskrivelse": "Private aksjeselskaper mv."
+    },
+    "registrertIForetaksregisteret": true,
+    "registrertIStiftelsesregisteret": false,
+    "registrertIFrivillighetsregisteret": false,
+    "sisteInnsendteAarsregnskap": "2018",
+    "konkurs": false,
+    "underAvvikling": false,
+    "underTvangsavviklingEllerTvangsopplosning": false,
+    "maalform": "Bokmål",
+    "links": []
+  },
+  {
+    "organisasjonsnummer": "913952812",
+    "navn": "RITUALS COSMETICS NORWAY AS",
+    "organisasjonsform": {
+      "kode": "AS",
+      "beskrivelse": "Aksjeselskap",
+      "links": []
+    },
+    "registreringsdatoEnhetsregisteret": "2014-08-12",
+    "registrertIMvaregisteret": true,
+    "naeringskode1": {
+      "beskrivelse": "Butikkhandel med kosmetikk og toalettartikler",
+      "kode": "47.750"
+    },
+    "antallAnsatte": 494,
+    "forretningsadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0155",
+      "poststed": "OSLO",
+      "adresse": [
+        "Stortorvet 2"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301"
+    },
+    "stiftelsesdato": "2014-06-05",
+    "institusjonellSektorkode": {
+      "kode": "2100",
+      "beskrivelse": "Private aksjeselskaper mv."
+    },
+    "registrertIForetaksregisteret": true,
+    "registrertIStiftelsesregisteret": false,
+    "registrertIFrivillighetsregisteret": false,
+    "sisteInnsendteAarsregnskap": "2018",
+    "konkurs": false,
+    "underAvvikling": false,
+    "underTvangsavviklingEllerTvangsopplosning": false,
+    "maalform": "Bokmål",
+    "links": []
+  },
+  {
+    "organisasjonsnummer": "811803502",
+    "navn": "SPEAK EASY AS",
+    "organisasjonsform": {
+      "kode": "AS",
+      "beskrivelse": "Aksjeselskap",
+      "links": []
+    },
+    "postadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0102",
+      "poststed": "OSLO",
+      "adresse": [
+        "Postboks 372"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301"
+    },
+    "registreringsdatoEnhetsregisteret": "2013-04-15",
+    "registrertIMvaregisteret": false,
+    "naeringskode1": {
+      "beskrivelse": "Drift av puber",
+      "kode": "56.301"
+    },
+    "antallAnsatte": 0,
+    "forretningsadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0154",
+      "poststed": "OSLO",
+      "adresse": [
+        "Karl Johans gate 10"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301"
+    },
+    "stiftelsesdato": "2013-03-20",
+    "institusjonellSektorkode": {
+      "kode": "2100",
+      "beskrivelse": "Private aksjeselskaper mv."
+    },
+    "registrertIForetaksregisteret": true,
+    "registrertIStiftelsesregisteret": false,
+    "registrertIFrivillighetsregisteret": false,
+    "sisteInnsendteAarsregnskap": "2018",
+    "konkurs": false,
+    "underAvvikling": false,
+    "underTvangsavviklingEllerTvangsopplosning": false,
+    "maalform": "Bokmål",
+    "links": []
+  },
+  {
+    "organisasjonsnummer": "916280572",
+    "navn": "STOCKFLETH AS",
+    "organisasjonsform": {
+      "kode": "AS",
+      "beskrivelse": "Aksjeselskap",
+      "links": []
+    },
+    "postadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0612",
+      "poststed": "OSLO",
+      "adresse": [
+        "Postboks 19",
+        "Manglerud"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301"
+    },
+    "registreringsdatoEnhetsregisteret": "1995-02-19",
+    "registrertIMvaregisteret": true,
+    "frivilligMvaRegistrertBeskrivelser": [
+      "Utleier av bygg eller anlegg"
+    ],
+    "naeringskode1": {
+      "beskrivelse": "Drift av barer ellers",
+      "kode": "56.309"
+    },
+    "antallAnsatte": 105,
+    "forretningsadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0152",
+      "poststed": "OSLO",
+      "adresse": [
+        "Skippergata 9"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301"
+    },
+    "stiftelsesdato": "1973-01-02",
+    "institusjonellSektorkode": {
+      "kode": "2100",
+      "beskrivelse": "Private aksjeselskaper mv."
+    },
+    "registrertIForetaksregisteret": true,
+    "registrertIStiftelsesregisteret": false,
+    "registrertIFrivillighetsregisteret": false,
+    "sisteInnsendteAarsregnskap": "2018",
+    "konkurs": false,
+    "underAvvikling": false,
+    "underTvangsavviklingEllerTvangsopplosning": false,
+    "maalform": "Bokmål",
+    "links": []
+  },
+  {
+    "organisasjonsnummer": "913336976",
+    "navn": "TAVEX GULL OG SØLV AS",
+    "organisasjonsform": {
+      "kode": "AS",
+      "beskrivelse": "Aksjeselskap",
+      "links": []
+    },
+    "hjemmeside": "www.tavex.no",
+    "registreringsdatoEnhetsregisteret": "2014-03-07",
+    "registrertIMvaregisteret": false,
+    "naeringskode1": {
+      "beskrivelse": "Butikkhandel med gull- og sølvvarer",
+      "kode": "47.772"
+    },
+    "antallAnsatte": 2,
+    "forretningsadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0154",
+      "poststed": "OSLO",
+      "adresse": [
+        "Karl Johans gate 1"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301"
+    },
+    "stiftelsesdato": "2014-01-22",
+    "institusjonellSektorkode": {
+      "kode": "2100",
+      "beskrivelse": "Private aksjeselskaper mv."
+    },
+    "registrertIForetaksregisteret": true,
+    "registrertIStiftelsesregisteret": false,
+    "registrertIFrivillighetsregisteret": false,
+    "sisteInnsendteAarsregnskap": "2018",
+    "konkurs": false,
+    "underAvvikling": false,
+    "underTvangsavviklingEllerTvangsopplosning": false,
+    "maalform": "Bokmål",
+    "links": []
+  },
+  {
+    "organisasjonsnummer": "919881828",
+    "navn": "TWO HOLDING AS",
+    "organisasjonsform": {
+      "kode": "AS",
+      "beskrivelse": "Aksjeselskap",
+      "links": []
+    },
+    "postadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "6415",
+      "poststed": "MOLDE",
+      "adresse": [
+        "Romsdalsgata 16"
+      ],
+      "kommune": "MOLDE",
+      "kommunenummer": "1506"
+    },
+    "registreringsdatoEnhetsregisteret": "2017-11-09",
+    "registrertIMvaregisteret": true,
+    "naeringskode1": {
+      "beskrivelse": "Butikkhandel med ur og klokker",
+      "kode": "47.771"
+    },
+    "antallAnsatte": 0,
+    "forretningsadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0157",
+      "poststed": "OSLO",
+      "adresse": [
+        "Øvre Slottsgate 9"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301"
+    },
+    "stiftelsesdato": "2017-10-25",
+    "institusjonellSektorkode": {
+      "kode": "2100",
+      "beskrivelse": "Private aksjeselskaper mv."
+    },
+    "registrertIForetaksregisteret": true,
+    "registrertIStiftelsesregisteret": false,
+    "registrertIFrivillighetsregisteret": false,
+    "sisteInnsendteAarsregnskap": "2018",
+    "konkurs": false,
+    "underAvvikling": false,
+    "underTvangsavviklingEllerTvangsopplosning": false,
+    "maalform": "Bokmål",
+    "links": []
+  },
+  {
+    "organisasjonsnummer": "817254322",
+    "navn": "VIPPA AS",
+    "organisasjonsform": {
+      "kode": "AS",
+      "beskrivelse": "Aksjeselskap",
+      "links": []
+    },
+    "postadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "7013",
+      "poststed": "TRONDHEIM",
+      "adresse": [
+        "v/Delta Regnskap AS",
+        "Kjøpmannsgata 8"
+      ],
+      "kommune": "TRONDHEIM",
+      "kommunenummer": "5001"
+    },
+    "registreringsdatoEnhetsregisteret": "2016-06-01",
+    "registrertIMvaregisteret": true,
+    "naeringskode1": {
+      "beskrivelse": "Drift av restauranter og kafeer",
+      "kode": "56.101"
+    },
+    "antallAnsatte": 44,
+    "forretningsadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0150",
+      "poststed": "OSLO",
+      "adresse": [
+        "Akershusstranda 25"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301"
+    },
+    "stiftelsesdato": "2016-05-19",
+    "institusjonellSektorkode": {
+      "kode": "2100",
+      "beskrivelse": "Private aksjeselskaper mv."
+    },
+    "registrertIForetaksregisteret": true,
+    "registrertIStiftelsesregisteret": false,
+    "registrertIFrivillighetsregisteret": false,
+    "sisteInnsendteAarsregnskap": "2018",
+    "konkurs": false,
+    "underAvvikling": false,
+    "underTvangsavviklingEllerTvangsopplosning": false,
+    "maalform": "Bokmål",
+    "links": []
+  }
+]

@@ -1,0 +1,3405 @@
+[
+  {
+    "organisasjonsnummer": "914127106",
+    "navn": "A. C. PERCHS THEHANDEL",
+    "organisasjonsform": {
+      "kode": "BEDR",
+      "beskrivelse": "Bedrift",
+      "links": []
+    },
+    "hjemmeside": "www.perchs.dk",
+    "registreringsdatoEnhetsregisteret": "2014-09-08",
+    "registrertIMvaregisteret": false,
+    "naeringskode1": {
+      "beskrivelse": "Butikkhandel med kaffe og te",
+      "kode": "47.292"
+    },
+    "antallAnsatte": 15,
+    "overordnetEnhet": "914114063",
+    "oppstartsdato": "2014-07-01",
+    "beliggenhetsadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0153",
+      "poststed": "OSLO",
+      "adresse": [
+        "Kirkegata 5"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301"
+    },
+    "links": []
+  },
+  {
+    "organisasjonsnummer": "824203032",
+    "navn": "BAGORAMA BYPORTEN AS",
+    "organisasjonsform": {
+      "kode": "BEDR",
+      "beskrivelse": "Bedrift",
+      "links": []
+    },
+    "postadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "1793",
+      "poststed": "TISTEDAL",
+      "adresse": [
+        "c/o Sajaco Nordic AS",
+        "Høstbakken 11"
+      ],
+      "kommune": "HALDEN",
+      "kommunenummer": "3001"
+    },
+    "registreringsdatoEnhetsregisteret": "2019-12-16",
+    "registrertIMvaregisteret": false,
+    "naeringskode1": {
+      "beskrivelse": "Butikkhandel med reiseeffekter av lær og lærimitasjoner og varer av lær",
+      "kode": "47.722"
+    },
+    "antallAnsatte": 0,
+    "overordnetEnhet": "824058202",
+    "oppstartsdato": "2020-01-01",
+    "beliggenhetsadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0154",
+      "poststed": "OSLO",
+      "adresse": [
+        "Byporten Shopping",
+        "Jernbanetorget 6"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301"
+    },
+    "links": []
+  },
+  {
+    "organisasjonsnummer": "914617790",
+    "navn": "BAKER HANSEN KVADRATUREN",
+    "organisasjonsform": {
+      "kode": "BEDR",
+      "beskrivelse": "Bedrift",
+      "links": []
+    },
+    "hjemmeside": "www.bakerhansen.no",
+    "postadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0168",
+      "poststed": "OSLO",
+      "adresse": [
+        "C/O Giang Kim Hoang",
+        "Wilhelms gate 1"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301"
+    },
+    "registreringsdatoEnhetsregisteret": "2014-12-16",
+    "registrertIMvaregisteret": false,
+    "naeringskode1": {
+      "beskrivelse": "Butikkhandel med bakervarer og konditorvarer",
+      "kode": "47.241"
+    },
+    "antallAnsatte": 14,
+    "overordnetEnhet": "814599892",
+    "oppstartsdato": "2015-01-01",
+    "beliggenhetsadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0153",
+      "poststed": "OSLO",
+      "adresse": [
+        "Kirkegata 15"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301"
+    },
+    "links": []
+  },
+  {
+    "organisasjonsnummer": "990942005",
+    "navn": "BAKER HANSEN RÅDHUSET",
+    "organisasjonsform": {
+      "kode": "BEDR",
+      "beskrivelse": "Bedrift",
+      "links": []
+    },
+    "hjemmeside": "bakerhansen.no",
+    "registreringsdatoEnhetsregisteret": "2007-02-22",
+    "registrertIMvaregisteret": false,
+    "naeringskode1": {
+      "beskrivelse": "Butikkhandel med bakervarer og konditorvarer",
+      "kode": "47.241"
+    },
+    "antallAnsatte": 10,
+    "overordnetEnhet": "913337441",
+    "oppstartsdato": "2007-01-01",
+    "datoEierskifte": "2014-05-01",
+    "beliggenhetsadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0158",
+      "poststed": "OSLO",
+      "adresse": [
+        "Rådhusgata 21"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301"
+    },
+    "links": []
+  },
+  {
+    "organisasjonsnummer": "983491308",
+    "navn": "BIANCO FOOTWEAR AVD AKERSGATA",
+    "organisasjonsform": {
+      "kode": "BEDR",
+      "beskrivelse": "Bedrift",
+      "links": []
+    },
+    "registreringsdatoEnhetsregisteret": "2001-06-27",
+    "registrertIMvaregisteret": false,
+    "naeringskode1": {
+      "beskrivelse": "Butikkhandel med skotøy",
+      "kode": "47.721"
+    },
+    "antallAnsatte": 6,
+    "overordnetEnhet": "875965492",
+    "oppstartsdato": "2001-05-28",
+    "beliggenhetsadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0158",
+      "poststed": "OSLO",
+      "adresse": [
+        "Akergsgaten 43"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301"
+    },
+    "links": []
+  },
+  {
+    "organisasjonsnummer": "988007277",
+    "navn": "BIANCO FOOTWEAR AVD STORO",
+    "organisasjonsform": {
+      "kode": "BEDR",
+      "beskrivelse": "Bedrift",
+      "links": []
+    },
+    "registreringsdatoEnhetsregisteret": "2005-03-15",
+    "registrertIMvaregisteret": false,
+    "naeringskode1": {
+      "beskrivelse": "Butikkhandel med skotøy",
+      "kode": "47.721"
+    },
+    "antallAnsatte": 23,
+    "overordnetEnhet": "875965492",
+    "oppstartsdato": "2004-02-14",
+    "beliggenhetsadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0485",
+      "poststed": "OSLO",
+      "adresse": [
+        "Vitaminveien 7-9"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301"
+    },
+    "links": []
+  },
+  {
+    "organisasjonsnummer": "986514465",
+    "navn": "BIK BOK BOGSTADVEIEN AVD 606",
+    "organisasjonsform": {
+      "kode": "BEDR",
+      "beskrivelse": "Bedrift",
+      "links": []
+    },
+    "registreringsdatoEnhetsregisteret": "2004-01-31",
+    "registrertIMvaregisteret": false,
+    "naeringskode1": {
+      "beskrivelse": "Butikkhandel med klær",
+      "kode": "47.710"
+    },
+    "antallAnsatte": 0,
+    "overordnetEnhet": "981930010",
+    "oppstartsdato": "2004-03-26",
+    "beliggenhetsadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0355",
+      "poststed": "OSLO",
+      "adresse": [
+        "Bogstadveien 22"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301"
+    },
+    "links": []
+  },
+  {
+    "organisasjonsnummer": "997196074",
+    "navn": "BIK BOK BRYN AVD J21",
+    "organisasjonsform": {
+      "kode": "BEDR",
+      "beskrivelse": "Bedrift",
+      "links": []
+    },
+    "postadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "1377",
+      "poststed": "BILLINGSTAD",
+      "adresse": [
+        "Postboks 194"
+      ],
+      "kommune": "ASKER",
+      "kommunenummer": "3025"
+    },
+    "registreringsdatoEnhetsregisteret": "2011-08-08",
+    "registrertIMvaregisteret": false,
+    "naeringskode1": {
+      "beskrivelse": "Butikkhandel med klær",
+      "kode": "47.710"
+    },
+    "antallAnsatte": 6,
+    "overordnetEnhet": "981930010",
+    "oppstartsdato": "2011-09-01",
+    "beliggenhetsadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0667",
+      "poststed": "OSLO",
+      "adresse": [
+        "Østensjøveien 79"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301"
+    },
+    "links": []
+  },
+  {
+    "organisasjonsnummer": "973714872",
+    "navn": "BIK BOK CC VEST AVD 614",
+    "organisasjonsform": {
+      "kode": "BEDR",
+      "beskrivelse": "Bedrift",
+      "links": []
+    },
+    "registreringsdatoEnhetsregisteret": "1995-02-22",
+    "registrertIMvaregisteret": false,
+    "naeringskode1": {
+      "beskrivelse": "Butikkhandel med klær",
+      "kode": "47.710"
+    },
+    "antallAnsatte": 0,
+    "overordnetEnhet": "981930010",
+    "datoEierskifte": "2000-01-01",
+    "beliggenhetsadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0283",
+      "poststed": "OSLO",
+      "adresse": [
+        "Lilleakerveien 16"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301"
+    },
+    "links": []
+  },
+  {
+    "organisasjonsnummer": "974300850",
+    "navn": "BIK BOK GRENSEN AVD 601",
+    "organisasjonsform": {
+      "kode": "BEDR",
+      "beskrivelse": "Bedrift",
+      "links": []
+    },
+    "registreringsdatoEnhetsregisteret": "1995-03-12",
+    "registrertIMvaregisteret": false,
+    "naeringskode1": {
+      "beskrivelse": "Butikkhandel med klær",
+      "kode": "47.710"
+    },
+    "antallAnsatte": 8,
+    "overordnetEnhet": "981930010",
+    "datoEierskifte": "2000-01-01",
+    "beliggenhetsadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0159",
+      "poststed": "OSLO",
+      "adresse": [
+        "Grensen 13"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301"
+    },
+    "links": []
+  },
+  {
+    "organisasjonsnummer": "973132067",
+    "navn": "BIK BOK JEANSSTORE AVD 602",
+    "organisasjonsform": {
+      "kode": "BEDR",
+      "beskrivelse": "Bedrift",
+      "links": []
+    },
+    "registreringsdatoEnhetsregisteret": "1995-02-22",
+    "registrertIMvaregisteret": false,
+    "naeringskode1": {
+      "beskrivelse": "Butikkhandel med klær",
+      "kode": "47.710"
+    },
+    "antallAnsatte": 10,
+    "overordnetEnhet": "981930010",
+    "oppstartsdato": "1986-01-01",
+    "datoEierskifte": "2000-01-01",
+    "beliggenhetsadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0161",
+      "poststed": "OSLO",
+      "adresse": [
+        "Stortingsgata 10"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301"
+    },
+    "links": []
+  },
+  {
+    "organisasjonsnummer": "996512215",
+    "navn": "BIK BOK KARL JOHANS GATE AVD 12 J",
+    "organisasjonsform": {
+      "kode": "BEDR",
+      "beskrivelse": "Bedrift",
+      "links": []
+    },
+    "postadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "1377",
+      "poststed": "BILLINGSTAD",
+      "adresse": [
+        "Postboks 194"
+      ],
+      "kommune": "ASKER",
+      "kommunenummer": "3025"
+    },
+    "registreringsdatoEnhetsregisteret": "2011-02-02",
+    "registrertIMvaregisteret": false,
+    "naeringskode1": {
+      "beskrivelse": "Butikkhandel med klær",
+      "kode": "47.710"
+    },
+    "antallAnsatte": 20,
+    "overordnetEnhet": "981930010",
+    "oppstartsdato": "2011-03-01",
+    "beliggenhetsadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0154",
+      "poststed": "OSLO",
+      "adresse": [
+        "Karl Johans gate",
+        "12 J"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301"
+    },
+    "links": []
+  },
+  {
+    "organisasjonsnummer": "912301575",
+    "navn": "BIK BOK LINDERUD AVD J31",
+    "organisasjonsform": {
+      "kode": "BEDR",
+      "beskrivelse": "Bedrift",
+      "links": []
+    },
+    "postadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "1377",
+      "poststed": "BILLINGSTAD",
+      "adresse": [
+        "Postboks 194"
+      ],
+      "kommune": "ASKER",
+      "kommunenummer": "3025"
+    },
+    "registreringsdatoEnhetsregisteret": "2013-08-13",
+    "registrertIMvaregisteret": false,
+    "naeringskode1": {
+      "beskrivelse": "Butikkhandel med klær",
+      "kode": "47.710"
+    },
+    "antallAnsatte": 0,
+    "overordnetEnhet": "981930010",
+    "oppstartsdato": "2013-09-01",
+    "beliggenhetsadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0594",
+      "poststed": "OSLO",
+      "adresse": [
+        "Erich Mogensøns vei 38"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301"
+    },
+    "links": []
+  },
+  {
+    "organisasjonsnummer": "973132083",
+    "navn": "BIK BOK OSLO CITY AVD 605",
+    "organisasjonsform": {
+      "kode": "BEDR",
+      "beskrivelse": "Bedrift",
+      "links": []
+    },
+    "registreringsdatoEnhetsregisteret": "1995-02-22",
+    "registrertIMvaregisteret": false,
+    "naeringskode1": {
+      "beskrivelse": "Butikkhandel med klær",
+      "kode": "47.710"
+    },
+    "antallAnsatte": 18,
+    "overordnetEnhet": "981930010",
+    "oppstartsdato": "1988-10-01",
+    "datoEierskifte": "2000-01-01",
+    "beliggenhetsadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0050",
+      "poststed": "OSLO",
+      "adresse": [
+        "Stenersgata 1"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301"
+    },
+    "links": []
+  },
+  {
+    "organisasjonsnummer": "973132199",
+    "navn": "BIK BOK STORO AVD 619",
+    "organisasjonsform": {
+      "kode": "BEDR",
+      "beskrivelse": "Bedrift",
+      "links": []
+    },
+    "registreringsdatoEnhetsregisteret": "1995-02-22",
+    "registrertIMvaregisteret": false,
+    "naeringskode1": {
+      "beskrivelse": "Butikkhandel med klær",
+      "kode": "47.710"
+    },
+    "antallAnsatte": 7,
+    "overordnetEnhet": "981930010",
+    "oppstartsdato": "1990-10-01",
+    "datoEierskifte": "2000-01-01",
+    "beliggenhetsadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0485",
+      "poststed": "OSLO",
+      "adresse": [
+        "Vitaminveien 7"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301"
+    },
+    "links": []
+  },
+  {
+    "organisasjonsnummer": "980892883",
+    "navn": "BIK BOK STOVNER AVD 631",
+    "organisasjonsform": {
+      "kode": "BEDR",
+      "beskrivelse": "Bedrift",
+      "links": []
+    },
+    "registreringsdatoEnhetsregisteret": "1999-06-30",
+    "registrertIMvaregisteret": false,
+    "naeringskode1": {
+      "beskrivelse": "Butikkhandel med klær",
+      "kode": "47.710"
+    },
+    "antallAnsatte": 6,
+    "overordnetEnhet": "981930010",
+    "oppstartsdato": "1998-10-05",
+    "datoEierskifte": "2000-01-01",
+    "beliggenhetsadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0985",
+      "poststed": "OSLO",
+      "adresse": [
+        "Stovner Senter 3"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301"
+    },
+    "links": []
+  },
+  {
+    "organisasjonsnummer": "997813448",
+    "navn": "BIK BOK THORVALD MEYERS GATE AVD J 22",
+    "organisasjonsform": {
+      "kode": "BEDR",
+      "beskrivelse": "Bedrift",
+      "links": []
+    },
+    "postadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "1377",
+      "poststed": "BILLINGSTAD",
+      "adresse": [
+        "Postboks 194"
+      ],
+      "kommune": "ASKER",
+      "kommunenummer": "3025"
+    },
+    "registreringsdatoEnhetsregisteret": "2012-01-10",
+    "registrertIMvaregisteret": false,
+    "naeringskode1": {
+      "beskrivelse": "Butikkhandel med klær",
+      "kode": "47.710"
+    },
+    "antallAnsatte": 6,
+    "overordnetEnhet": "981930010",
+    "oppstartsdato": "2012-02-01",
+    "beliggenhetsadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0555",
+      "poststed": "OSLO",
+      "adresse": [
+        "Thorvald Meyers gate 51"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301"
+    },
+    "links": []
+  },
+  {
+    "organisasjonsnummer": "973132075",
+    "navn": "BIK BOK TREND SHOP AVD 604",
+    "organisasjonsform": {
+      "kode": "BEDR",
+      "beskrivelse": "Bedrift",
+      "links": []
+    },
+    "registreringsdatoEnhetsregisteret": "1995-02-22",
+    "registrertIMvaregisteret": false,
+    "naeringskode1": {
+      "beskrivelse": "Butikkhandel med klær",
+      "kode": "47.710"
+    },
+    "antallAnsatte": 9,
+    "overordnetEnhet": "981930010",
+    "oppstartsdato": "1979-01-01",
+    "datoEierskifte": "2000-01-01",
+    "beliggenhetsadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0366",
+      "poststed": "OSLO",
+      "adresse": [
+        "BOGSTADVEIEN 43"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301"
+    },
+    "links": []
+  },
+  {
+    "organisasjonsnummer": "997195906",
+    "navn": "BIK BOK TVEITA AVD J19",
+    "organisasjonsform": {
+      "kode": "BEDR",
+      "beskrivelse": "Bedrift",
+      "links": []
+    },
+    "postadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "1377",
+      "poststed": "BILLINGSTAD",
+      "adresse": [
+        "Postboks 194"
+      ],
+      "kommune": "ASKER",
+      "kommunenummer": "3025"
+    },
+    "registreringsdatoEnhetsregisteret": "2011-08-08",
+    "registrertIMvaregisteret": false,
+    "naeringskode1": {
+      "beskrivelse": "Butikkhandel med klær",
+      "kode": "47.710"
+    },
+    "antallAnsatte": 7,
+    "overordnetEnhet": "981930010",
+    "oppstartsdato": "2011-09-01",
+    "beliggenhetsadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0671",
+      "poststed": "OSLO",
+      "adresse": [
+        "Tvetenveien 150"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301"
+    },
+    "links": []
+  },
+  {
+    "organisasjonsnummer": "914249910",
+    "navn": "BLUE NIGHT AS",
+    "organisasjonsform": {
+      "kode": "BEDR",
+      "beskrivelse": "Bedrift",
+      "links": []
+    },
+    "registreringsdatoEnhetsregisteret": "2014-10-04",
+    "registrertIMvaregisteret": false,
+    "naeringskode1": {
+      "beskrivelse": "Drift av puber",
+      "kode": "56.301"
+    },
+    "antallAnsatte": 6,
+    "overordnetEnhet": "914215889",
+    "oppstartsdato": "2014-09-17",
+    "beliggenhetsadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0151",
+      "poststed": "OSLO",
+      "adresse": [
+        "Rådhusgata 4"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301"
+    },
+    "links": []
+  },
+  {
+    "organisasjonsnummer": "823891342",
+    "navn": "BOLOGNA HOLDING AS",
+    "organisasjonsform": {
+      "kode": "BEDR",
+      "beskrivelse": "Bedrift",
+      "links": []
+    },
+    "registreringsdatoEnhetsregisteret": "2019-11-26",
+    "registrertIMvaregisteret": false,
+    "naeringskode1": {
+      "beskrivelse": "Drift av restauranter og kafeer",
+      "kode": "56.101"
+    },
+    "naeringskode2": {
+      "beskrivelse": "Hovedkontortjenester",
+      "kode": "70.100",
+      "hjelpeenhetskode": true
+    },
+    "antallAnsatte": 0,
+    "overordnetEnhet": "816254922",
+    "oppstartsdato": "2018-01-01",
+    "beliggenhetsadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0154",
+      "poststed": "OSLO",
+      "adresse": [
+        "c/o Mamma Pizza",
+        "Dronningens gate 22"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301"
+    },
+    "links": []
+  },
+  {
+    "organisasjonsnummer": "971670959",
+    "navn": "BRILLESPESIALISTEN AS",
+    "organisasjonsform": {
+      "kode": "BEDR",
+      "beskrivelse": "Bedrift",
+      "links": []
+    },
+    "registreringsdatoEnhetsregisteret": "1995-03-12",
+    "registrertIMvaregisteret": false,
+    "naeringskode1": {
+      "beskrivelse": "Butikkhandel med optiske artikler",
+      "kode": "47.782"
+    },
+    "antallAnsatte": 4,
+    "overordnetEnhet": "889234962",
+    "oppstartsdato": "1965-12-31",
+    "datoEierskifte": "2006-01-01",
+    "beliggenhetsadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0155",
+      "poststed": "OSLO",
+      "adresse": [
+        "Storgata 2"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301"
+    },
+    "links": []
+  },
+  {
+    "organisasjonsnummer": "917881324",
+    "navn": "ERLIK KAFFE AS",
+    "organisasjonsform": {
+      "kode": "BEDR",
+      "beskrivelse": "Bedrift",
+      "links": []
+    },
+    "registreringsdatoEnhetsregisteret": "2016-10-15",
+    "registrertIMvaregisteret": false,
+    "naeringskode1": {
+      "beskrivelse": "Drift av barer ellers",
+      "kode": "56.309"
+    },
+    "antallAnsatte": 54,
+    "overordnetEnhet": "917762953",
+    "oppstartsdato": "2016-09-29",
+    "beliggenhetsadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0152",
+      "poststed": "OSLO",
+      "adresse": [
+        "Skippergata 14"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301"
+    },
+    "links": []
+  },
+  {
+    "organisasjonsnummer": "915384927",
+    "navn": "EYEFACTORY AS",
+    "organisasjonsform": {
+      "kode": "BEDR",
+      "beskrivelse": "Bedrift",
+      "links": []
+    },
+    "registreringsdatoEnhetsregisteret": "2015-05-16",
+    "registrertIMvaregisteret": false,
+    "naeringskode1": {
+      "beskrivelse": "Butikkhandel med optiske artikler",
+      "kode": "47.782"
+    },
+    "antallAnsatte": 1,
+    "overordnetEnhet": "915380344",
+    "oppstartsdato": "2015-05-04",
+    "beliggenhetsadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0159",
+      "poststed": "OSLO",
+      "adresse": [
+        "Grensen 17"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301"
+    },
+    "links": []
+  },
+  {
+    "organisasjonsnummer": "992088605",
+    "navn": "GOLESTAN KEBAB SHERKO SHERKO Z AHMED",
+    "organisasjonsform": {
+      "kode": "BEDR",
+      "beskrivelse": "Bedrift",
+      "links": []
+    },
+    "registreringsdatoEnhetsregisteret": "2007-12-18",
+    "registrertIMvaregisteret": false,
+    "naeringskode1": {
+      "beskrivelse": "Drift av gatekjøkken",
+      "kode": "56.102"
+    },
+    "antallAnsatte": 0,
+    "overordnetEnhet": "895802042",
+    "oppstartsdato": "2007-12-12",
+    "datoEierskifte": "2010-07-01",
+    "beliggenhetsadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0151",
+      "poststed": "OSLO",
+      "adresse": [
+        "Rådhusgata 30"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301"
+    },
+    "links": []
+  },
+  {
+    "organisasjonsnummer": "981110749",
+    "navn": "GULLSMED KAULUM BYPORTEN AS",
+    "organisasjonsform": {
+      "kode": "BEDR",
+      "beskrivelse": "Bedrift",
+      "links": []
+    },
+    "registreringsdatoEnhetsregisteret": "1999-09-28",
+    "registrertIMvaregisteret": false,
+    "naeringskode1": {
+      "beskrivelse": "Butikkhandel med gull- og sølvvarer",
+      "kode": "47.772"
+    },
+    "antallAnsatte": 9,
+    "overordnetEnhet": "865700822",
+    "oppstartsdato": "1999-03-30",
+    "beliggenhetsadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0154",
+      "poststed": "OSLO",
+      "adresse": [
+        "Jernbanetorget 6"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301"
+    },
+    "links": []
+  },
+  {
+    "organisasjonsnummer": "994696726",
+    "navn": "H & M HENNES & MAURITZ AS AVD 601 MONKI BOGSTADVEIEN",
+    "organisasjonsform": {
+      "kode": "BEDR",
+      "beskrivelse": "Bedrift",
+      "links": []
+    },
+    "postadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0614",
+      "poststed": "OSLO",
+      "adresse": [
+        "Postboks 68 Alnabru"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301"
+    },
+    "registreringsdatoEnhetsregisteret": "2009-10-27",
+    "registrertIMvaregisteret": false,
+    "naeringskode1": {
+      "beskrivelse": "Butikkhandel med klær",
+      "kode": "47.710"
+    },
+    "antallAnsatte": 9,
+    "overordnetEnhet": "912618900",
+    "oppstartsdato": "2009-11-26",
+    "datoEierskifte": "2012-06-01",
+    "beliggenhetsadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0355",
+      "poststed": "OSLO",
+      "adresse": [
+        "Bogstadveien 4"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301"
+    },
+    "links": []
+  },
+  {
+    "organisasjonsnummer": "995310953",
+    "navn": "H & M HENNES & MAURITZ AS AVD 603 MONKI STORO SHOPPING",
+    "organisasjonsform": {
+      "kode": "BEDR",
+      "beskrivelse": "Bedrift",
+      "links": []
+    },
+    "postadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0614",
+      "poststed": "OSLO",
+      "adresse": [
+        "Postboks 68 Alnabru"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301"
+    },
+    "registreringsdatoEnhetsregisteret": "2010-03-18",
+    "registrertIMvaregisteret": false,
+    "naeringskode1": {
+      "beskrivelse": "Butikkhandel med klær",
+      "kode": "47.710"
+    },
+    "antallAnsatte": 9,
+    "overordnetEnhet": "912618900",
+    "oppstartsdato": "2010-01-01",
+    "datoEierskifte": "2012-06-01",
+    "beliggenhetsadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0485",
+      "poststed": "OSLO",
+      "adresse": [
+        "Vitaminveien 7-9"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301"
+    },
+    "links": []
+  },
+  {
+    "organisasjonsnummer": "922401063",
+    "navn": "H & M HENNES & MAURITZ AS AVD 604 COS ØVRE SLOTTSGT",
+    "organisasjonsform": {
+      "kode": "BEDR",
+      "beskrivelse": "Bedrift",
+      "links": []
+    },
+    "postadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0614",
+      "poststed": "OSLO",
+      "adresse": [
+        "Postboks 68 Alnabru"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301"
+    },
+    "registreringsdatoEnhetsregisteret": "2019-03-16",
+    "registrertIMvaregisteret": false,
+    "naeringskode1": {
+      "beskrivelse": "Butikkhandel med klær",
+      "kode": "47.710"
+    },
+    "antallAnsatte": 32,
+    "overordnetEnhet": "912618900",
+    "oppstartsdato": "2019-05-24",
+    "beliggenhetsadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0157",
+      "poststed": "OSLO",
+      "adresse": [
+        "Øvre Slottsgate 10"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301"
+    },
+    "links": []
+  },
+  {
+    "organisasjonsnummer": "995349450",
+    "navn": "H & M HENNES & MAURITZ AS AVD 606 MONKI KARL JOHAN/STORTORVET",
+    "organisasjonsform": {
+      "kode": "BEDR",
+      "beskrivelse": "Bedrift",
+      "links": []
+    },
+    "postadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0614",
+      "poststed": "OSLO",
+      "adresse": [
+        "Postboks 68 Alnabru"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301"
+    },
+    "registreringsdatoEnhetsregisteret": "2010-03-29",
+    "registrertIMvaregisteret": false,
+    "naeringskode1": {
+      "beskrivelse": "Butikkhandel med klær",
+      "kode": "47.710"
+    },
+    "antallAnsatte": 21,
+    "overordnetEnhet": "912618900",
+    "oppstartsdato": "2010-05-15",
+    "datoEierskifte": "2012-06-01",
+    "beliggenhetsadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0154",
+      "poststed": "OSLO",
+      "adresse": [
+        "Karl Johans gate 15"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301"
+    },
+    "links": []
+  },
+  {
+    "organisasjonsnummer": "999533582",
+    "navn": "H & M HENNES & MAURITZ AS AVD 630 HEGDEHAUGSVEIEN",
+    "organisasjonsform": {
+      "kode": "BEDR",
+      "beskrivelse": "Bedrift",
+      "links": []
+    },
+    "postadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0614",
+      "poststed": "OSLO",
+      "adresse": [
+        "Postboks 68 Alnabru"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301"
+    },
+    "registreringsdatoEnhetsregisteret": "2013-01-15",
+    "registrertIMvaregisteret": false,
+    "naeringskode1": {
+      "beskrivelse": "Butikkhandel med klær",
+      "kode": "47.710"
+    },
+    "antallAnsatte": 23,
+    "overordnetEnhet": "912618900",
+    "oppstartsdato": "2013-03-01",
+    "beliggenhetsadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0352",
+      "poststed": "OSLO",
+      "adresse": [
+        "Hegdehaugsveien 29"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301"
+    },
+    "links": []
+  },
+  {
+    "organisasjonsnummer": "914283124",
+    "navn": "H & M HENNES & MAURITZ AS AVD 631 COS AKER BRYGGE",
+    "organisasjonsform": {
+      "kode": "BEDR",
+      "beskrivelse": "Bedrift",
+      "links": []
+    },
+    "postadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0614",
+      "poststed": "OSLO",
+      "adresse": [
+        "Postboks 68 Alnabru"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301"
+    },
+    "registreringsdatoEnhetsregisteret": "2014-10-11",
+    "registrertIMvaregisteret": false,
+    "naeringskode1": {
+      "beskrivelse": "Butikkhandel med klær",
+      "kode": "47.710"
+    },
+    "antallAnsatte": 21,
+    "overordnetEnhet": "912618900",
+    "oppstartsdato": "2014-10-09",
+    "beliggenhetsadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0250",
+      "poststed": "OSLO",
+      "adresse": [
+        "Bryggegata 5"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301"
+    },
+    "links": []
+  },
+  {
+    "organisasjonsnummer": "917132666",
+    "navn": "H & M HENNES & MAURITZ AS AVD 632 COS GRUNERLØKKA",
+    "organisasjonsform": {
+      "kode": "BEDR",
+      "beskrivelse": "Bedrift",
+      "links": []
+    },
+    "postadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0614",
+      "poststed": "OSLO",
+      "adresse": [
+        "Postboks 68 Alnabru"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301"
+    },
+    "registreringsdatoEnhetsregisteret": "2016-05-04",
+    "registrertIMvaregisteret": false,
+    "naeringskode1": {
+      "beskrivelse": "Butikkhandel med klær",
+      "kode": "47.710"
+    },
+    "antallAnsatte": 21,
+    "overordnetEnhet": "912618900",
+    "oppstartsdato": "2016-05-06",
+    "beliggenhetsadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0555",
+      "poststed": "OSLO",
+      "adresse": [
+        "Thorvald Meyers gate 38"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301"
+    },
+    "links": []
+  },
+  {
+    "organisasjonsnummer": "995349957",
+    "navn": "H & M HENNES & MAURITZ AS AVD 651 WEEKDAY KARLJOHAN/STORTORVE",
+    "organisasjonsform": {
+      "kode": "BEDR",
+      "beskrivelse": "Bedrift",
+      "links": []
+    },
+    "postadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0614",
+      "poststed": "OSLO",
+      "adresse": [
+        "Postboks 68 Alnabru"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301"
+    },
+    "registreringsdatoEnhetsregisteret": "2010-03-29",
+    "registrertIMvaregisteret": false,
+    "naeringskode1": {
+      "beskrivelse": "Butikkhandel med klær",
+      "kode": "47.710"
+    },
+    "antallAnsatte": 28,
+    "overordnetEnhet": "912618900",
+    "oppstartsdato": "2010-05-15",
+    "datoEierskifte": "2012-06-01",
+    "beliggenhetsadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0155",
+      "poststed": "OSLO",
+      "adresse": [
+        "Stortorvet 7"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301"
+    },
+    "links": []
+  },
+  {
+    "organisasjonsnummer": "917132674",
+    "navn": "H & M HENNES & MAURITZ AS AVD 654 WEEKDAY GRUNERLØKKA",
+    "organisasjonsform": {
+      "kode": "BEDR",
+      "beskrivelse": "Bedrift",
+      "links": []
+    },
+    "postadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0614",
+      "poststed": "OSLO",
+      "adresse": [
+        "Postboks 68 Alnabru"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301"
+    },
+    "registreringsdatoEnhetsregisteret": "2016-05-04",
+    "registrertIMvaregisteret": false,
+    "naeringskode1": {
+      "beskrivelse": "Butikkhandel med klær",
+      "kode": "47.710"
+    },
+    "antallAnsatte": 16,
+    "overordnetEnhet": "912618900",
+    "oppstartsdato": "2016-05-06",
+    "beliggenhetsadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0555",
+      "poststed": "OSLO",
+      "adresse": [
+        "Thorvald Meyers gate 38"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301"
+    },
+    "links": []
+  },
+  {
+    "organisasjonsnummer": "917432341",
+    "navn": "H & M HENNES & MAURITZ AS AVD 655 WEEKDAY BOGSTADVEIEN",
+    "organisasjonsform": {
+      "kode": "BEDR",
+      "beskrivelse": "Bedrift",
+      "links": []
+    },
+    "postadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0614",
+      "poststed": "OSLO",
+      "adresse": [
+        "Postboks 68 Alnabru"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301"
+    },
+    "registreringsdatoEnhetsregisteret": "2016-07-06",
+    "registrertIMvaregisteret": false,
+    "naeringskode1": {
+      "beskrivelse": "Butikkhandel med klær",
+      "kode": "47.710"
+    },
+    "antallAnsatte": 17,
+    "overordnetEnhet": "912618900",
+    "oppstartsdato": "2016-09-16",
+    "beliggenhetsadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0366",
+      "poststed": "OSLO",
+      "adresse": [
+        "Bogstadveien 54"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301"
+    },
+    "links": []
+  },
+  {
+    "organisasjonsnummer": "924477040",
+    "navn": "H & M HENNES & MAURITZ AS AVD 672 & OTHER STORIES VALKYRIENGA",
+    "organisasjonsform": {
+      "kode": "BEDR",
+      "beskrivelse": "Bedrift",
+      "links": []
+    },
+    "postadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0614",
+      "poststed": "OSLO",
+      "adresse": [
+        "Postboks 68   Alnabru"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301"
+    },
+    "registreringsdatoEnhetsregisteret": "2020-01-25",
+    "registrertIMvaregisteret": false,
+    "naeringskode1": {
+      "beskrivelse": "Butikkhandel med klær",
+      "kode": "47.710"
+    },
+    "antallAnsatte": 0,
+    "overordnetEnhet": "912618900",
+    "oppstartsdato": "2020-02-03",
+    "beliggenhetsadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0366",
+      "poststed": "OSLO",
+      "adresse": [
+        "Valkyriegata 1"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301"
+    },
+    "links": []
+  },
+  {
+    "organisasjonsnummer": "881672502",
+    "navn": "H & M HENNES & MAURITZ AS AVD 700 STENERSGATA",
+    "organisasjonsform": {
+      "kode": "BEDR",
+      "beskrivelse": "Bedrift",
+      "links": []
+    },
+    "postadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0614",
+      "poststed": "OSLO",
+      "adresse": [
+        "Postboks 68 Alnabru"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301"
+    },
+    "registreringsdatoEnhetsregisteret": "2000-03-13",
+    "registrertIMvaregisteret": false,
+    "naeringskode1": {
+      "beskrivelse": "Butikkhandel med klær",
+      "kode": "47.710"
+    },
+    "antallAnsatte": 32,
+    "overordnetEnhet": "912618900",
+    "oppstartsdato": "2000-03-23",
+    "beliggenhetsadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0184",
+      "poststed": "OSLO",
+      "adresse": [
+        "Stenersgata 2"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301"
+    },
+    "links": []
+  },
+  {
+    "organisasjonsnummer": "974291991",
+    "navn": "H & M HENNES & MAURITZ AS AVD 701 HOVEDKONTOR/LAGER",
+    "organisasjonsform": {
+      "kode": "BEDR",
+      "beskrivelse": "Bedrift",
+      "links": []
+    },
+    "postadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0614",
+      "poststed": "OSLO",
+      "adresse": [
+        "Postboks 68 Alnabru"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301"
+    },
+    "registreringsdatoEnhetsregisteret": "1995-03-12",
+    "registrertIMvaregisteret": false,
+    "naeringskode1": {
+      "beskrivelse": "Butikkhandel med klær",
+      "kode": "47.710"
+    },
+    "naeringskode2": {
+      "beskrivelse": "Hovedkontortjenester",
+      "kode": "70.100",
+      "hjelpeenhetskode": true
+    },
+    "antallAnsatte": 247,
+    "overordnetEnhet": "912618900",
+    "beliggenhetsadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0581",
+      "poststed": "OSLO",
+      "adresse": [
+        "Østre Aker vei 61"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301"
+    },
+    "links": []
+  },
+  {
+    "organisasjonsnummer": "980640892",
+    "navn": "H & M HENNES & MAURITZ AS AVD 710 MORTENSRUD",
+    "organisasjonsform": {
+      "kode": "BEDR",
+      "beskrivelse": "Bedrift",
+      "links": []
+    },
+    "postadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0614",
+      "poststed": "OSLO",
+      "adresse": [
+        "Postboks 68 Alnabru"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301"
+    },
+    "registreringsdatoEnhetsregisteret": "1999-03-25",
+    "registrertIMvaregisteret": false,
+    "naeringskode1": {
+      "beskrivelse": "Butikkhandel med klær",
+      "kode": "47.710"
+    },
+    "antallAnsatte": 15,
+    "overordnetEnhet": "912618900",
+    "oppstartsdato": "1999-03-18",
+    "beliggenhetsadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "1281",
+      "poststed": "OSLO",
+      "adresse": [
+        "Senter Syd",
+        "Lofsrudveien 6"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301"
+    },
+    "links": []
+  },
+  {
+    "organisasjonsnummer": "973098578",
+    "navn": "H & M HENNES & MAURITZ AS AVD 712 AKER BRYGGE",
+    "organisasjonsform": {
+      "kode": "BEDR",
+      "beskrivelse": "Bedrift",
+      "links": []
+    },
+    "postadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0614",
+      "poststed": "OSLO",
+      "adresse": [
+        "Postboks 68 Alnabru"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301"
+    },
+    "registreringsdatoEnhetsregisteret": "1995-02-22",
+    "registrertIMvaregisteret": false,
+    "naeringskode1": {
+      "beskrivelse": "Butikkhandel med klær",
+      "kode": "47.710"
+    },
+    "antallAnsatte": 31,
+    "overordnetEnhet": "912618900",
+    "oppstartsdato": "1989-09-01",
+    "beliggenhetsadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0250",
+      "poststed": "OSLO",
+      "adresse": [
+        "Stranden 3"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301"
+    },
+    "links": []
+  },
+  {
+    "organisasjonsnummer": "973098659",
+    "navn": "H & M HENNES & MAURITZ AS AVD 716 BRYN SENTER",
+    "organisasjonsform": {
+      "kode": "BEDR",
+      "beskrivelse": "Bedrift",
+      "links": []
+    },
+    "postadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0614",
+      "poststed": "OSLO",
+      "adresse": [
+        "Postboks 68 Alnabru"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301"
+    },
+    "registreringsdatoEnhetsregisteret": "1995-02-22",
+    "registrertIMvaregisteret": false,
+    "naeringskode1": {
+      "beskrivelse": "Butikkhandel med klær",
+      "kode": "47.710"
+    },
+    "antallAnsatte": 22,
+    "overordnetEnhet": "912618900",
+    "oppstartsdato": "1992-07-01",
+    "beliggenhetsadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0667",
+      "poststed": "OSLO",
+      "adresse": [
+        "Østensjøveien 79"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301"
+    },
+    "links": []
+  },
+  {
+    "organisasjonsnummer": "973098403",
+    "navn": "H & M HENNES & MAURITZ AS AVD 717 STORTORVET",
+    "organisasjonsform": {
+      "kode": "BEDR",
+      "beskrivelse": "Bedrift",
+      "links": []
+    },
+    "postadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0614",
+      "poststed": "OSLO",
+      "adresse": [
+        "Postboks 68 Alnabru"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301"
+    },
+    "registreringsdatoEnhetsregisteret": "1995-02-22",
+    "registrertIMvaregisteret": false,
+    "naeringskode1": {
+      "beskrivelse": "Butikkhandel med klær",
+      "kode": "47.710"
+    },
+    "antallAnsatte": 38,
+    "overordnetEnhet": "912618900",
+    "oppstartsdato": "1965-12-31",
+    "beliggenhetsadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0155",
+      "poststed": "OSLO",
+      "adresse": [
+        "Stortorvet 13"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301"
+    },
+    "links": []
+  },
+  {
+    "organisasjonsnummer": "973098691",
+    "navn": "H & M HENNES & MAURITZ AS AVD 718 STORO",
+    "organisasjonsform": {
+      "kode": "BEDR",
+      "beskrivelse": "Bedrift",
+      "links": []
+    },
+    "postadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0614",
+      "poststed": "OSLO",
+      "adresse": [
+        "Postboks 68 Alnabru"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301"
+    },
+    "registreringsdatoEnhetsregisteret": "1995-02-22",
+    "registrertIMvaregisteret": false,
+    "naeringskode1": {
+      "beskrivelse": "Butikkhandel med klær",
+      "kode": "47.710"
+    },
+    "antallAnsatte": 43,
+    "overordnetEnhet": "912618900",
+    "oppstartsdato": "1993-10-01",
+    "beliggenhetsadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0485",
+      "poststed": "OSLO",
+      "adresse": [
+        "Vitaminveien 7"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301"
+    },
+    "links": []
+  },
+  {
+    "organisasjonsnummer": "973098675",
+    "navn": "H & M HENNES & MAURITZ AS AVD 722 OSLO CITY",
+    "organisasjonsform": {
+      "kode": "BEDR",
+      "beskrivelse": "Bedrift",
+      "links": []
+    },
+    "postadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0614",
+      "poststed": "OSLO",
+      "adresse": [
+        "Postboks 68 Alnabru"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301"
+    },
+    "registreringsdatoEnhetsregisteret": "1995-02-22",
+    "registrertIMvaregisteret": false,
+    "naeringskode1": {
+      "beskrivelse": "Butikkhandel med klær",
+      "kode": "47.710"
+    },
+    "antallAnsatte": 95,
+    "overordnetEnhet": "912618900",
+    "oppstartsdato": "1992-11-05",
+    "beliggenhetsadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0050",
+      "poststed": "OSLO",
+      "adresse": [
+        "Stenersgata 1"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301"
+    },
+    "links": []
+  },
+  {
+    "organisasjonsnummer": "973098438",
+    "navn": "H & M HENNES & MAURITZ AS AVD 735 STOVNER SENTER",
+    "organisasjonsform": {
+      "kode": "BEDR",
+      "beskrivelse": "Bedrift",
+      "links": []
+    },
+    "postadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0614",
+      "poststed": "OSLO",
+      "adresse": [
+        "Postboks 68 Alnabru"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301"
+    },
+    "registreringsdatoEnhetsregisteret": "1995-02-22",
+    "registrertIMvaregisteret": false,
+    "naeringskode1": {
+      "beskrivelse": "Butikkhandel med klær",
+      "kode": "47.710"
+    },
+    "antallAnsatte": 25,
+    "overordnetEnhet": "912618900",
+    "oppstartsdato": "1980-01-01",
+    "beliggenhetsadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0985",
+      "poststed": "OSLO",
+      "adresse": [
+        "Stovner Senter 3"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301"
+    },
+    "links": []
+  },
+  {
+    "organisasjonsnummer": "923819142",
+    "navn": "H & M HENNES & MAURITZ AS AVD 811 H & M OUTLET",
+    "organisasjonsform": {
+      "kode": "BEDR",
+      "beskrivelse": "Bedrift",
+      "links": []
+    },
+    "postadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0614",
+      "poststed": "OSLO",
+      "adresse": [
+        "Postboks 68 Alnabru"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301"
+    },
+    "registreringsdatoEnhetsregisteret": "2019-11-13",
+    "registrertIMvaregisteret": false,
+    "naeringskode1": {
+      "beskrivelse": "Butikkhandel med klær",
+      "kode": "47.710"
+    },
+    "antallAnsatte": 10,
+    "overordnetEnhet": "912618900",
+    "oppstartsdato": "2019-11-15",
+    "beliggenhetsadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0186",
+      "poststed": "OSLO",
+      "adresse": [
+        "Brugata 7"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301"
+    },
+    "links": []
+  },
+  {
+    "organisasjonsnummer": "986512675",
+    "navn": "H & M HENNES & MAURITZ AS AVD 835 CC VEST",
+    "organisasjonsform": {
+      "kode": "BEDR",
+      "beskrivelse": "Bedrift",
+      "links": []
+    },
+    "postadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0614",
+      "poststed": "OSLO",
+      "adresse": [
+        "Postboks 68 Alnabru"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301"
+    },
+    "registreringsdatoEnhetsregisteret": "2004-01-29",
+    "registrertIMvaregisteret": false,
+    "naeringskode1": {
+      "beskrivelse": "Butikkhandel med klær",
+      "kode": "47.710"
+    },
+    "antallAnsatte": 36,
+    "overordnetEnhet": "912618900",
+    "oppstartsdato": "2003-03-25",
+    "beliggenhetsadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0283",
+      "poststed": "OSLO",
+      "adresse": [
+        "CC Vest",
+        "Lilleakerveien 16"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301"
+    },
+    "links": []
+  },
+  {
+    "organisasjonsnummer": "996776573",
+    "navn": "H & M HENNES & MAURITZ AS AVD 860 H&M GÅRDEN",
+    "organisasjonsform": {
+      "kode": "BEDR",
+      "beskrivelse": "Bedrift",
+      "links": []
+    },
+    "postadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0614",
+      "poststed": "OSLO",
+      "adresse": [
+        "Postboks 68 Alnabru"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301"
+    },
+    "registreringsdatoEnhetsregisteret": "2011-04-04",
+    "registrertIMvaregisteret": false,
+    "naeringskode1": {
+      "beskrivelse": "Butikkhandel med klær",
+      "kode": "47.710"
+    },
+    "antallAnsatte": 56,
+    "overordnetEnhet": "912618900",
+    "oppstartsdato": "2011-03-10",
+    "beliggenhetsadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0355",
+      "poststed": "OSLO",
+      "adresse": [
+        "Bogstadveien 11"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301"
+    },
+    "links": []
+  },
+  {
+    "organisasjonsnummer": "995671395",
+    "navn": "H & M HENNES & MAURITZ AS AVD 861 LAMBERTSETER SENTER",
+    "organisasjonsform": {
+      "kode": "BEDR",
+      "beskrivelse": "Bedrift",
+      "links": []
+    },
+    "postadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0614",
+      "poststed": "OSLO",
+      "adresse": [
+        "Postboks 68 Alnabru"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301"
+    },
+    "registreringsdatoEnhetsregisteret": "2010-06-26",
+    "registrertIMvaregisteret": false,
+    "naeringskode1": {
+      "beskrivelse": "Butikkhandel med klær",
+      "kode": "47.710"
+    },
+    "antallAnsatte": 20,
+    "overordnetEnhet": "912618900",
+    "oppstartsdato": "2010-10-12",
+    "beliggenhetsadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "1150",
+      "poststed": "OSLO",
+      "adresse": [
+        "Langbølgen 5"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301"
+    },
+    "links": []
+  },
+  {
+    "organisasjonsnummer": "994501046",
+    "navn": "H & M HENNES & MAURITZ AS AVD 862 ULLEVÅL STADION",
+    "organisasjonsform": {
+      "kode": "BEDR",
+      "beskrivelse": "Bedrift",
+      "links": []
+    },
+    "postadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0614",
+      "poststed": "OSLO",
+      "adresse": [
+        "Postboks 68 Alnabru"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301"
+    },
+    "registreringsdatoEnhetsregisteret": "2009-09-08",
+    "registrertIMvaregisteret": false,
+    "naeringskode1": {
+      "beskrivelse": "Butikkhandel med klær",
+      "kode": "47.710"
+    },
+    "antallAnsatte": 12,
+    "overordnetEnhet": "912618900",
+    "oppstartsdato": "2009-11-12",
+    "beliggenhetsadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0855",
+      "poststed": "OSLO",
+      "adresse": [
+        "Sognsveien 75J"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301"
+    },
+    "links": []
+  },
+  {
+    "organisasjonsnummer": "912485978",
+    "navn": "H & M HENNES & MAURITZ AS AVD 877 GRENSEN",
+    "organisasjonsform": {
+      "kode": "BEDR",
+      "beskrivelse": "Bedrift",
+      "links": []
+    },
+    "postadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0614",
+      "poststed": "OSLO",
+      "adresse": [
+        "Postboks 68 Alnabru"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301"
+    },
+    "registreringsdatoEnhetsregisteret": "2013-09-24",
+    "registrertIMvaregisteret": false,
+    "naeringskode1": {
+      "beskrivelse": "Butikkhandel med klær",
+      "kode": "47.710"
+    },
+    "antallAnsatte": 11,
+    "overordnetEnhet": "912618900",
+    "oppstartsdato": "2013-10-10",
+    "beliggenhetsadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0159",
+      "poststed": "OSLO",
+      "adresse": [
+        "Grensen 2"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301"
+    },
+    "links": []
+  },
+  {
+    "organisasjonsnummer": "915061761",
+    "navn": "H & M HENNES & MAURITZ AS AVD 880 LINDERUD SENTER",
+    "organisasjonsform": {
+      "kode": "BEDR",
+      "beskrivelse": "Bedrift",
+      "links": []
+    },
+    "postadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0614",
+      "poststed": "OSLO",
+      "adresse": [
+        "Postboks 68 Alnabru"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301"
+    },
+    "registreringsdatoEnhetsregisteret": "2015-03-03",
+    "registrertIMvaregisteret": false,
+    "naeringskode1": {
+      "beskrivelse": "Butikkhandel med klær",
+      "kode": "47.710"
+    },
+    "antallAnsatte": 22,
+    "overordnetEnhet": "912618900",
+    "oppstartsdato": "2015-10-15",
+    "beliggenhetsadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0594",
+      "poststed": "OSLO",
+      "adresse": [
+        "Erich Mogensøns vei 38"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301"
+    },
+    "links": []
+  },
+  {
+    "organisasjonsnummer": "921525370",
+    "navn": "H & M HENNES & MAURITZ AS AVD 885 KARL JOHANS GATE",
+    "organisasjonsform": {
+      "kode": "BEDR",
+      "beskrivelse": "Bedrift",
+      "links": []
+    },
+    "postadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0614",
+      "poststed": "OSLO",
+      "adresse": [
+        "Postboks 68 Alnabru"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301"
+    },
+    "registreringsdatoEnhetsregisteret": "2018-10-08",
+    "registrertIMvaregisteret": false,
+    "naeringskode1": {
+      "beskrivelse": "Butikkhandel med klær",
+      "kode": "47.710"
+    },
+    "antallAnsatte": 76,
+    "overordnetEnhet": "912618900",
+    "oppstartsdato": "2018-11-29",
+    "beliggenhetsadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0154",
+      "poststed": "OSLO",
+      "adresse": [
+        "Karl Johans gate 14"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301"
+    },
+    "links": []
+  },
+  {
+    "organisasjonsnummer": "921791518",
+    "navn": "H & M HENNES & MAURITZ AS AVD 886 HOME KARL JOHANS GATE",
+    "organisasjonsform": {
+      "kode": "BEDR",
+      "beskrivelse": "Bedrift",
+      "links": []
+    },
+    "postadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0614",
+      "poststed": "OSLO",
+      "adresse": [
+        "Postboks 68 Alnabru"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301"
+    },
+    "registreringsdatoEnhetsregisteret": "2018-11-27",
+    "registrertIMvaregisteret": false,
+    "naeringskode1": {
+      "beskrivelse": "Butikkhandel med tekstiler og utstyrsvarer",
+      "kode": "47.510"
+    },
+    "antallAnsatte": 28,
+    "overordnetEnhet": "912618900",
+    "oppstartsdato": "2018-11-29",
+    "beliggenhetsadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0154",
+      "poststed": "OSLO",
+      "adresse": [
+        "Karl Johans gate 14"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301"
+    },
+    "links": []
+  },
+  {
+    "organisasjonsnummer": "924476990",
+    "navn": "H & M HENNES & MAURITZ AS AVD 887 HOME BOGSTADVEIEN",
+    "organisasjonsform": {
+      "kode": "BEDR",
+      "beskrivelse": "Bedrift",
+      "links": []
+    },
+    "postadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0614",
+      "poststed": "OSLO",
+      "adresse": [
+        "Postboks 68   Alnabru"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301"
+    },
+    "registreringsdatoEnhetsregisteret": "2020-01-25",
+    "registrertIMvaregisteret": false,
+    "naeringskode1": {
+      "beskrivelse": "Butikkhandel med innredningsartikler ikke nevnt annet sted",
+      "kode": "47.599"
+    },
+    "antallAnsatte": 0,
+    "overordnetEnhet": "912618900",
+    "oppstartsdato": "2020-03-02",
+    "beliggenhetsadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0366",
+      "poststed": "OSLO",
+      "adresse": [
+        "Bogstadveien 45"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301"
+    },
+    "links": []
+  },
+  {
+    "organisasjonsnummer": "988231533",
+    "navn": "JEWEL OF INDIA AS",
+    "organisasjonsform": {
+      "kode": "BEDR",
+      "beskrivelse": "Bedrift",
+      "links": []
+    },
+    "postadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "1410",
+      "poststed": "KOLBOTN",
+      "adresse": [
+        "Johan Svendsens vei 27"
+      ],
+      "kommune": "NORDRE FOLLO",
+      "kommunenummer": "3020"
+    },
+    "registreringsdatoEnhetsregisteret": "2005-05-19",
+    "registrertIMvaregisteret": false,
+    "naeringskode1": {
+      "beskrivelse": "Drift av restauranter og kafeer",
+      "kode": "56.101"
+    },
+    "antallAnsatte": 47,
+    "overordnetEnhet": "888224572",
+    "oppstartsdato": "2005-06-01",
+    "beliggenhetsadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0256",
+      "poststed": "OSLO",
+      "adresse": [
+        "Oscars gate 81"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301"
+    },
+    "links": []
+  },
+  {
+    "organisasjonsnummer": "971719036",
+    "navn": "KIRKERISTEN SKO AS",
+    "organisasjonsform": {
+      "kode": "BEDR",
+      "beskrivelse": "Bedrift",
+      "links": []
+    },
+    "registreringsdatoEnhetsregisteret": "1995-02-22",
+    "registrertIMvaregisteret": false,
+    "naeringskode1": {
+      "beskrivelse": "Butikkhandel med skotøy",
+      "kode": "47.721"
+    },
+    "antallAnsatte": 0,
+    "overordnetEnhet": "813370042",
+    "oppstartsdato": "1965-12-31",
+    "beliggenhetsadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0154",
+      "poststed": "OSLO",
+      "adresse": [
+        "Dronningens gate 27"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301"
+    },
+    "links": []
+  },
+  {
+    "organisasjonsnummer": "974208350",
+    "navn": "LINDEX AS AVD BOGSTADVEIEN 40",
+    "organisasjonsform": {
+      "kode": "BEDR",
+      "beskrivelse": "Bedrift",
+      "links": []
+    },
+    "registreringsdatoEnhetsregisteret": "1995-02-22",
+    "registrertIMvaregisteret": false,
+    "naeringskode1": {
+      "beskrivelse": "Butikkhandel med klær",
+      "kode": "47.710"
+    },
+    "antallAnsatte": 19,
+    "overordnetEnhet": "819282102",
+    "oppstartsdato": "1994-09-01",
+    "beliggenhetsadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0366",
+      "poststed": "OSLO",
+      "adresse": [
+        "BOGSTADVEIEN 40"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301"
+    },
+    "links": []
+  },
+  {
+    "organisasjonsnummer": "973110039",
+    "navn": "LINDEX AS AVD ERICH MOGENSSØNSVEI",
+    "organisasjonsform": {
+      "kode": "BEDR",
+      "beskrivelse": "Bedrift",
+      "links": []
+    },
+    "registreringsdatoEnhetsregisteret": "1995-02-22",
+    "registrertIMvaregisteret": false,
+    "naeringskode1": {
+      "beskrivelse": "Butikkhandel med klær",
+      "kode": "47.710"
+    },
+    "antallAnsatte": 13,
+    "overordnetEnhet": "819282102",
+    "oppstartsdato": "1992-07-01",
+    "beliggenhetsadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0594",
+      "poststed": "OSLO",
+      "adresse": [
+        "ERICH MOGENSSØNSVEI 38"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301"
+    },
+    "links": []
+  },
+  {
+    "organisasjonsnummer": "981612450",
+    "navn": "LINDEX AS AVD GRENSEN",
+    "organisasjonsform": {
+      "kode": "BEDR",
+      "beskrivelse": "Bedrift",
+      "links": []
+    },
+    "registreringsdatoEnhetsregisteret": "2000-02-24",
+    "registrertIMvaregisteret": false,
+    "naeringskode1": {
+      "beskrivelse": "Butikkhandel med klær",
+      "kode": "47.710"
+    },
+    "antallAnsatte": 21,
+    "overordnetEnhet": "819282102",
+    "oppstartsdato": "2000-04-13",
+    "beliggenhetsadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0159",
+      "poststed": "OSLO",
+      "adresse": [
+        "Grensen 5-7"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301"
+    },
+    "links": []
+  },
+  {
+    "organisasjonsnummer": "895953512",
+    "navn": "LINDEX AS AVD GRÜNERLØKKA",
+    "organisasjonsform": {
+      "kode": "BEDR",
+      "beskrivelse": "Bedrift",
+      "links": []
+    },
+    "registreringsdatoEnhetsregisteret": "2010-09-18",
+    "registrertIMvaregisteret": false,
+    "naeringskode1": {
+      "beskrivelse": "Butikkhandel med klær",
+      "kode": "47.710"
+    },
+    "antallAnsatte": 24,
+    "overordnetEnhet": "819282102",
+    "oppstartsdato": "2010-11-18",
+    "beliggenhetsadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0554",
+      "poststed": "OSLO",
+      "adresse": [
+        "Markveien 35"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301"
+    },
+    "links": []
+  },
+  {
+    "organisasjonsnummer": "995071703",
+    "navn": "LINDEX AS AVD LAMBERTSETER",
+    "organisasjonsform": {
+      "kode": "BEDR",
+      "beskrivelse": "Bedrift",
+      "links": []
+    },
+    "registreringsdatoEnhetsregisteret": "2010-01-21",
+    "registrertIMvaregisteret": false,
+    "naeringskode1": {
+      "beskrivelse": "Butikkhandel med klær",
+      "kode": "47.710"
+    },
+    "antallAnsatte": 14,
+    "overordnetEnhet": "819282102",
+    "oppstartsdato": "2010-10-12",
+    "beliggenhetsadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "1153",
+      "poststed": "OSLO",
+      "adresse": [
+        "Cecilie Thoresens vei 17"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301"
+    },
+    "links": []
+  },
+  {
+    "organisasjonsnummer": "995872986",
+    "navn": "LINDEX AS AVD MANGLERUD",
+    "organisasjonsform": {
+      "kode": "BEDR",
+      "beskrivelse": "Bedrift",
+      "links": []
+    },
+    "registreringsdatoEnhetsregisteret": "2010-08-30",
+    "registrertIMvaregisteret": false,
+    "naeringskode1": {
+      "beskrivelse": "Butikkhandel med klær",
+      "kode": "47.710"
+    },
+    "antallAnsatte": 10,
+    "overordnetEnhet": "819282102",
+    "oppstartsdato": "2010-11-04",
+    "beliggenhetsadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0679",
+      "poststed": "OSLO",
+      "adresse": [
+        "Plogveien 6"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301"
+    },
+    "links": []
+  },
+  {
+    "organisasjonsnummer": "973109952",
+    "navn": "LINDEX AS AVD STENERSGATEN",
+    "organisasjonsform": {
+      "kode": "BEDR",
+      "beskrivelse": "Bedrift",
+      "links": []
+    },
+    "registreringsdatoEnhetsregisteret": "1995-02-22",
+    "registrertIMvaregisteret": false,
+    "naeringskode1": {
+      "beskrivelse": "Butikkhandel med klær",
+      "kode": "47.710"
+    },
+    "antallAnsatte": 24,
+    "overordnetEnhet": "819282102",
+    "oppstartsdato": "1988-10-01",
+    "beliggenhetsadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0050",
+      "poststed": "OSLO",
+      "adresse": [
+        "Stenersgata 1"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301"
+    },
+    "links": []
+  },
+  {
+    "organisasjonsnummer": "985908222",
+    "navn": "LINDEX AS AVD TVEITA SENTER",
+    "organisasjonsform": {
+      "kode": "BEDR",
+      "beskrivelse": "Bedrift",
+      "links": []
+    },
+    "registreringsdatoEnhetsregisteret": "2003-08-02",
+    "registrertIMvaregisteret": false,
+    "naeringskode1": {
+      "beskrivelse": "Butikkhandel med klær",
+      "kode": "47.710"
+    },
+    "antallAnsatte": 15,
+    "overordnetEnhet": "819282102",
+    "oppstartsdato": "2003-08-01",
+    "beliggenhetsadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0671",
+      "poststed": "OSLO",
+      "adresse": [
+        "Tveita Senter",
+        "Tvetenveien 150"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301"
+    },
+    "links": []
+  },
+  {
+    "organisasjonsnummer": "977220653",
+    "navn": "LINDEX AS HOVEDKONTOR",
+    "organisasjonsform": {
+      "kode": "BEDR",
+      "beskrivelse": "Bedrift",
+      "links": []
+    },
+    "postadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0101",
+      "poststed": "OSLO",
+      "adresse": [
+        "Postboks 348 Sentrum"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301"
+    },
+    "registreringsdatoEnhetsregisteret": "1997-02-06",
+    "registrertIMvaregisteret": false,
+    "naeringskode1": {
+      "beskrivelse": "Butikkhandel med klær",
+      "kode": "47.710"
+    },
+    "naeringskode2": {
+      "beskrivelse": "Hovedkontortjenester",
+      "kode": "70.100",
+      "hjelpeenhetskode": true
+    },
+    "antallAnsatte": 19,
+    "overordnetEnhet": "819282102",
+    "oppstartsdato": "1997-03-03",
+    "beliggenhetsadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0158",
+      "poststed": "OSLO",
+      "adresse": [
+        "Akersgata 28"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301"
+    },
+    "links": []
+  },
+  {
+    "organisasjonsnummer": "997341821",
+    "navn": "LINDEX AS LINDEX SHOP ONLINE",
+    "organisasjonsform": {
+      "kode": "BEDR",
+      "beskrivelse": "Bedrift",
+      "links": []
+    },
+    "hjemmeside": "www.lindex.no",
+    "postadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0101",
+      "poststed": "OSLO",
+      "adresse": [
+        "Postboks 348"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301"
+    },
+    "registreringsdatoEnhetsregisteret": "2011-09-14",
+    "registrertIMvaregisteret": false,
+    "naeringskode1": {
+      "beskrivelse": "Postordre-/Internetthandel med tekstiler, utstyrsvarer, klær, skotøy, reiseeffekter og lærvarer",
+      "kode": "47.912"
+    },
+    "antallAnsatte": 0,
+    "overordnetEnhet": "819282102",
+    "oppstartsdato": "2011-06-01",
+    "beliggenhetsadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0154",
+      "poststed": "OSLO",
+      "adresse": [
+        "Jernbanetorget 2"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301"
+    },
+    "links": []
+  },
+  {
+    "organisasjonsnummer": "921023049",
+    "navn": "MAANESTEN AS",
+    "organisasjonsform": {
+      "kode": "BEDR",
+      "beskrivelse": "Bedrift",
+      "links": []
+    },
+    "registreringsdatoEnhetsregisteret": "2018-06-19",
+    "registrertIMvaregisteret": false,
+    "naeringskode1": {
+      "beskrivelse": "Butikkhandel med ur og klokker",
+      "kode": "47.771"
+    },
+    "antallAnsatte": 18,
+    "overordnetEnhet": "920920551",
+    "oppstartsdato": "2018-06-15",
+    "beliggenhetsadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0157",
+      "poststed": "OSLO",
+      "adresse": [
+        "Prinsens gate 22"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301"
+    },
+    "links": []
+  },
+  {
+    "organisasjonsnummer": "921231598",
+    "navn": "MODA NUOVA FASHION NORGE AS",
+    "organisasjonsform": {
+      "kode": "BEDR",
+      "beskrivelse": "Bedrift",
+      "links": []
+    },
+    "hjemmeside": "www.hollies.se",
+    "registreringsdatoEnhetsregisteret": "2018-08-11",
+    "registrertIMvaregisteret": false,
+    "naeringskode1": {
+      "beskrivelse": "Butikkhandel med klær",
+      "kode": "47.710"
+    },
+    "antallAnsatte": 0,
+    "overordnetEnhet": "821196892",
+    "oppstartsdato": "2018-08-06",
+    "beliggenhetsadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0151",
+      "poststed": "OSLO",
+      "adresse": [
+        "c/o Avanse Regnskap AS",
+        "Grev Wedels plass 5"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301"
+    },
+    "links": []
+  },
+  {
+    "organisasjonsnummer": "972270431",
+    "navn": "MULBERRY OSLO AS",
+    "organisasjonsform": {
+      "kode": "BEDR",
+      "beskrivelse": "Bedrift",
+      "links": []
+    },
+    "registreringsdatoEnhetsregisteret": "1995-02-22",
+    "registrertIMvaregisteret": false,
+    "naeringskode1": {
+      "beskrivelse": "Butikkhandel med reiseeffekter av lær og lærimitasjoner og varer av lær",
+      "kode": "47.722"
+    },
+    "antallAnsatte": 21,
+    "overordnetEnhet": "961545684",
+    "oppstartsdato": "1991-09-01",
+    "beliggenhetsadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0157",
+      "poststed": "OSLO",
+      "adresse": [
+        "Nedre Slottsgate 8"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301"
+    },
+    "links": []
+  },
+  {
+    "organisasjonsnummer": "919901314",
+    "navn": "RITUALS COSMETICS NORWAY AS AVD OSLO AKER BRYGGE",
+    "organisasjonsform": {
+      "kode": "BEDR",
+      "beskrivelse": "Bedrift",
+      "links": []
+    },
+    "registreringsdatoEnhetsregisteret": "2017-11-14",
+    "registrertIMvaregisteret": false,
+    "naeringskode1": {
+      "beskrivelse": "Butikkhandel med kosmetikk og toalettartikler",
+      "kode": "47.750"
+    },
+    "antallAnsatte": 9,
+    "overordnetEnhet": "913952812",
+    "oppstartsdato": "2016-01-01",
+    "beliggenhetsadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0250",
+      "poststed": "OSLO",
+      "adresse": [
+        "Grundingen 6"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301"
+    },
+    "links": []
+  },
+  {
+    "organisasjonsnummer": "923620559",
+    "navn": "RITUALS COSMETICS NORWAY AS AVD OSLO CITY",
+    "organisasjonsform": {
+      "kode": "BEDR",
+      "beskrivelse": "Bedrift",
+      "links": []
+    },
+    "registreringsdatoEnhetsregisteret": "2019-10-16",
+    "registrertIMvaregisteret": false,
+    "naeringskode1": {
+      "beskrivelse": "Butikkhandel med kosmetikk og toalettartikler",
+      "kode": "47.750"
+    },
+    "antallAnsatte": 16,
+    "overordnetEnhet": "913952812",
+    "oppstartsdato": "2019-04-11",
+    "beliggenhetsadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0050",
+      "poststed": "OSLO",
+      "adresse": [
+        "Stenersgata 1"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301"
+    },
+    "links": []
+  },
+  {
+    "organisasjonsnummer": "819901252",
+    "navn": "RITUALS COSMETICS NORWAY AS AVD OSLO VALKYRIEGATE",
+    "organisasjonsform": {
+      "kode": "BEDR",
+      "beskrivelse": "Bedrift",
+      "links": []
+    },
+    "registreringsdatoEnhetsregisteret": "2017-11-14",
+    "registrertIMvaregisteret": false,
+    "naeringskode1": {
+      "beskrivelse": "Butikkhandel med kosmetikk og toalettartikler",
+      "kode": "47.750"
+    },
+    "antallAnsatte": 10,
+    "overordnetEnhet": "913952812",
+    "oppstartsdato": "2016-01-01",
+    "beliggenhetsadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0366",
+      "poststed": "OSLO",
+      "adresse": [
+        "Valkyriegata 5"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301"
+    },
+    "links": []
+  },
+  {
+    "organisasjonsnummer": "923620125",
+    "navn": "RITUALS COSMETICS NORWAY AS AVD STORO STORSENTER",
+    "organisasjonsform": {
+      "kode": "BEDR",
+      "beskrivelse": "Bedrift",
+      "links": []
+    },
+    "registreringsdatoEnhetsregisteret": "2019-10-16",
+    "registrertIMvaregisteret": false,
+    "naeringskode1": {
+      "beskrivelse": "Butikkhandel med kosmetikk og toalettartikler",
+      "kode": "47.750"
+    },
+    "antallAnsatte": 0,
+    "overordnetEnhet": "913952812",
+    "oppstartsdato": "2019-10-24",
+    "beliggenhetsadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0485",
+      "poststed": "OSLO",
+      "adresse": [
+        "Vitaminveien 7-9"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301"
+    },
+    "links": []
+  },
+  {
+    "organisasjonsnummer": "922135355",
+    "navn": "RITUALS COSMETICS NORWAY AS AVD STORTORVET",
+    "organisasjonsform": {
+      "kode": "BEDR",
+      "beskrivelse": "Bedrift",
+      "links": []
+    },
+    "registreringsdatoEnhetsregisteret": "2019-01-30",
+    "registrertIMvaregisteret": false,
+    "naeringskode1": {
+      "beskrivelse": "Butikkhandel med kosmetikk og toalettartikler",
+      "kode": "47.750"
+    },
+    "naeringskode2": {
+      "beskrivelse": "Hovedkontortjenester",
+      "kode": "70.100",
+      "hjelpeenhetskode": true
+    },
+    "antallAnsatte": 1,
+    "overordnetEnhet": "913952812",
+    "oppstartsdato": "2019-01-01",
+    "beliggenhetsadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0155",
+      "poststed": "OSLO",
+      "adresse": [
+        "Stortorvet 2"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301"
+    },
+    "links": []
+  },
+  {
+    "organisasjonsnummer": "920648355",
+    "navn": "STOCKFLETH AS AVD ARKADEN",
+    "organisasjonsform": {
+      "kode": "BEDR",
+      "beskrivelse": "Bedrift",
+      "links": []
+    },
+    "postadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0612",
+      "poststed": "OSLO",
+      "adresse": [
+        "Postboks 19   Manglerud"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301"
+    },
+    "registreringsdatoEnhetsregisteret": "2018-03-22",
+    "registrertIMvaregisteret": false,
+    "naeringskode1": {
+      "beskrivelse": "Drift av barer ellers",
+      "kode": "56.309"
+    },
+    "antallAnsatte": 5,
+    "overordnetEnhet": "916280572",
+    "oppstartsdato": "2018-05-03",
+    "beliggenhetsadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0154",
+      "poststed": "OSLO",
+      "adresse": [
+        "Skippergata 29"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301"
+    },
+    "links": []
+  },
+  {
+    "organisasjonsnummer": "911601060",
+    "navn": "STOCKFLETH AS AVD BYGDØY ALLE",
+    "organisasjonsform": {
+      "kode": "BEDR",
+      "beskrivelse": "Bedrift",
+      "links": []
+    },
+    "postadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0612",
+      "poststed": "OSLO",
+      "adresse": [
+        "Postboks 19"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301"
+    },
+    "registreringsdatoEnhetsregisteret": "2013-02-21",
+    "registrertIMvaregisteret": false,
+    "naeringskode1": {
+      "beskrivelse": "Drift av barer ellers",
+      "kode": "56.309"
+    },
+    "antallAnsatte": 0,
+    "overordnetEnhet": "916280572",
+    "oppstartsdato": "2011-01-01",
+    "beliggenhetsadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0265",
+      "poststed": "OSLO",
+      "adresse": [
+        "Bygdøy allé 56A"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301"
+    },
+    "links": []
+  },
+  {
+    "organisasjonsnummer": "911601079",
+    "navn": "STOCKFLETH AS AVD GAMLEBYEN",
+    "organisasjonsform": {
+      "kode": "BEDR",
+      "beskrivelse": "Bedrift",
+      "links": []
+    },
+    "postadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0612",
+      "poststed": "OSLO",
+      "adresse": [
+        "Postboks 19"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301"
+    },
+    "registreringsdatoEnhetsregisteret": "2013-02-21",
+    "registrertIMvaregisteret": false,
+    "naeringskode1": {
+      "beskrivelse": "Drift av barer ellers",
+      "kode": "56.309"
+    },
+    "antallAnsatte": 6,
+    "overordnetEnhet": "916280572",
+    "oppstartsdato": "2011-01-01",
+    "beliggenhetsadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0656",
+      "poststed": "OSLO",
+      "adresse": [
+        "Munkegata 2C"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301"
+    },
+    "links": []
+  },
+  {
+    "organisasjonsnummer": "922215774",
+    "navn": "STOCKFLETH AS AVD HOMANSBYEN",
+    "organisasjonsform": {
+      "kode": "BEDR",
+      "beskrivelse": "Bedrift",
+      "links": []
+    },
+    "postadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0612",
+      "poststed": "OSLO",
+      "adresse": [
+        "Postboks 19   Manglerud"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301"
+    },
+    "registreringsdatoEnhetsregisteret": "2019-02-13",
+    "registrertIMvaregisteret": false,
+    "naeringskode1": {
+      "beskrivelse": "Drift av barer ellers",
+      "kode": "56.309"
+    },
+    "antallAnsatte": 7,
+    "overordnetEnhet": "916280572",
+    "oppstartsdato": "2019-02-01",
+    "beliggenhetsadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0351",
+      "poststed": "OSLO",
+      "adresse": [
+        "Josefines gate 23"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301"
+    },
+    "links": []
+  },
+  {
+    "organisasjonsnummer": "991903445",
+    "navn": "STOCKFLETH AS AVD LILLE GRENSEN",
+    "organisasjonsform": {
+      "kode": "BEDR",
+      "beskrivelse": "Bedrift",
+      "links": []
+    },
+    "postadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0612",
+      "poststed": "OSLO",
+      "adresse": [
+        "Postboks 19"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301"
+    },
+    "registreringsdatoEnhetsregisteret": "2007-11-03",
+    "registrertIMvaregisteret": false,
+    "naeringskode1": {
+      "beskrivelse": "Drift av barer ellers",
+      "kode": "56.309"
+    },
+    "antallAnsatte": 11,
+    "overordnetEnhet": "916280572",
+    "oppstartsdato": "2006-01-01",
+    "beliggenhetsadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0159",
+      "poststed": "OSLO",
+      "adresse": [
+        "Karl Johans gate 25"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301"
+    },
+    "links": []
+  },
+  {
+    "organisasjonsnummer": "815054202",
+    "navn": "STOCKFLETH AS AVD MUNCH MUSEET",
+    "organisasjonsform": {
+      "kode": "BEDR",
+      "beskrivelse": "Bedrift",
+      "links": []
+    },
+    "postadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0612",
+      "poststed": "OSLO",
+      "adresse": [
+        "Postboks 19"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301"
+    },
+    "registreringsdatoEnhetsregisteret": "2015-03-02",
+    "registrertIMvaregisteret": false,
+    "naeringskode1": {
+      "beskrivelse": "Drift av barer ellers",
+      "kode": "56.309"
+    },
+    "antallAnsatte": 7,
+    "overordnetEnhet": "916280572",
+    "oppstartsdato": "2015-05-09",
+    "beliggenhetsadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0578",
+      "poststed": "OSLO",
+      "adresse": [
+        "Tøyengata 53"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301"
+    },
+    "links": []
+  },
+  {
+    "organisasjonsnummer": "972151211",
+    "navn": "STOCKFLETH AS AVD OSLO CITY",
+    "organisasjonsform": {
+      "kode": "BEDR",
+      "beskrivelse": "Bedrift",
+      "links": []
+    },
+    "postadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0612",
+      "poststed": "OSLO",
+      "adresse": [
+        "Postboks 19"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301"
+    },
+    "registreringsdatoEnhetsregisteret": "1995-02-22",
+    "registrertIMvaregisteret": false,
+    "naeringskode1": {
+      "beskrivelse": "Drift av barer ellers",
+      "kode": "56.309"
+    },
+    "antallAnsatte": 12,
+    "overordnetEnhet": "916280572",
+    "oppstartsdato": "1988-11-01",
+    "datoEierskifte": "2004-01-01",
+    "beliggenhetsadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0050",
+      "poststed": "OSLO",
+      "adresse": [
+        "Stenersgata 1"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301"
+    },
+    "links": []
+  },
+  {
+    "organisasjonsnummer": "919868732",
+    "navn": "STOCKFLETH AS AVD PRINSENS GATE",
+    "organisasjonsform": {
+      "kode": "BEDR",
+      "beskrivelse": "Bedrift",
+      "links": []
+    },
+    "postadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0612",
+      "poststed": "OSLO",
+      "adresse": [
+        "Postboks 19"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301"
+    },
+    "registreringsdatoEnhetsregisteret": "2017-11-08",
+    "registrertIMvaregisteret": false,
+    "naeringskode1": {
+      "beskrivelse": "Drift av barer ellers",
+      "kode": "56.309"
+    },
+    "antallAnsatte": 9,
+    "overordnetEnhet": "916280572",
+    "oppstartsdato": "2004-06-09",
+    "beliggenhetsadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0152",
+      "poststed": "OSLO",
+      "adresse": [
+        "Prinsens gate 6"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301"
+    },
+    "links": []
+  },
+  {
+    "organisasjonsnummer": "919868775",
+    "navn": "STOCKFLETH AS AVD SCHOUS PLASS",
+    "organisasjonsform": {
+      "kode": "BEDR",
+      "beskrivelse": "Bedrift",
+      "links": []
+    },
+    "postadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0612",
+      "poststed": "OSLO",
+      "adresse": [
+        "Postboks 19"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301"
+    },
+    "registreringsdatoEnhetsregisteret": "2017-11-08",
+    "registrertIMvaregisteret": false,
+    "naeringskode1": {
+      "beskrivelse": "Drift av barer ellers",
+      "kode": "56.309"
+    },
+    "antallAnsatte": 9,
+    "overordnetEnhet": "916280572",
+    "oppstartsdato": "2017-04-01",
+    "beliggenhetsadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0552",
+      "poststed": "OSLO",
+      "adresse": [
+        "Schous plass 1"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301"
+    },
+    "links": []
+  },
+  {
+    "organisasjonsnummer": "990000247",
+    "navn": "STOCKFLETH AS AVD SKIPPERGATA",
+    "organisasjonsform": {
+      "kode": "BEDR",
+      "beskrivelse": "Bedrift",
+      "links": []
+    },
+    "postadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0612",
+      "poststed": "OSLO",
+      "adresse": [
+        "Postboks 19"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301"
+    },
+    "registreringsdatoEnhetsregisteret": "2006-06-27",
+    "registrertIMvaregisteret": false,
+    "naeringskode1": {
+      "beskrivelse": "Drift av barer ellers",
+      "kode": "56.309"
+    },
+    "antallAnsatte": 7,
+    "overordnetEnhet": "916280572",
+    "oppstartsdato": "2006-01-01",
+    "beliggenhetsadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0152",
+      "poststed": "OSLO",
+      "adresse": [
+        "Skippergata 9"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301"
+    },
+    "links": []
+  },
+  {
+    "organisasjonsnummer": "985118019",
+    "navn": "STOCKFLETH AS AVD TINGHUSET",
+    "organisasjonsform": {
+      "kode": "BEDR",
+      "beskrivelse": "Bedrift",
+      "links": []
+    },
+    "postadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0612",
+      "poststed": "OSLO",
+      "adresse": [
+        "Postboks 19"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301"
+    },
+    "registreringsdatoEnhetsregisteret": "2002-11-25",
+    "registrertIMvaregisteret": false,
+    "naeringskode1": {
+      "beskrivelse": "Drift av barer ellers",
+      "kode": "56.309"
+    },
+    "antallAnsatte": 6,
+    "overordnetEnhet": "916280572",
+    "oppstartsdato": "2000-01-01",
+    "datoEierskifte": "2007-10-01",
+    "beliggenhetsadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0164",
+      "poststed": "OSLO",
+      "adresse": [
+        "C.J.Hambros plass 4"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301"
+    },
+    "links": []
+  },
+  {
+    "organisasjonsnummer": "919868627",
+    "navn": "STOCKFLETH AS AVD VESTBANEN",
+    "organisasjonsform": {
+      "kode": "BEDR",
+      "beskrivelse": "Bedrift",
+      "links": []
+    },
+    "postadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0612",
+      "poststed": "OSLO",
+      "adresse": [
+        "Postboks 19"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301"
+    },
+    "registreringsdatoEnhetsregisteret": "2017-11-08",
+    "registrertIMvaregisteret": false,
+    "naeringskode1": {
+      "beskrivelse": "Drift av barer ellers",
+      "kode": "56.309"
+    },
+    "antallAnsatte": 6,
+    "overordnetEnhet": "916280572",
+    "oppstartsdato": "2017-03-01",
+    "beliggenhetsadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0250",
+      "poststed": "OSLO",
+      "adresse": [
+        "Brynjulf Bulls plass 1"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301"
+    },
+    "links": []
+  },
+  {
+    "organisasjonsnummer": "913376102",
+    "navn": "TAVEX GULL OG SØLV AS",
+    "organisasjonsform": {
+      "kode": "BEDR",
+      "beskrivelse": "Bedrift",
+      "links": []
+    },
+    "hjemmeside": "www.tavex.no",
+    "registreringsdatoEnhetsregisteret": "2014-03-17",
+    "registrertIMvaregisteret": false,
+    "naeringskode1": {
+      "beskrivelse": "Butikkhandel med gull- og sølvvarer",
+      "kode": "47.772"
+    },
+    "antallAnsatte": 2,
+    "overordnetEnhet": "913336976",
+    "oppstartsdato": "2014-03-01",
+    "beliggenhetsadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0154",
+      "poststed": "OSLO",
+      "adresse": [
+        "Karl Johans gate 1"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301"
+    },
+    "links": []
+  },
+  {
+    "organisasjonsnummer": "972086630",
+    "navn": "THEA AS",
+    "organisasjonsform": {
+      "kode": "BEDR",
+      "beskrivelse": "Bedrift",
+      "links": []
+    },
+    "registreringsdatoEnhetsregisteret": "1995-02-22",
+    "registrertIMvaregisteret": false,
+    "naeringskode1": {
+      "beskrivelse": "Drift av restauranter og kafeer",
+      "kode": "56.101"
+    },
+    "antallAnsatte": 22,
+    "overordnetEnhet": "942852010",
+    "oppstartsdato": "1987-01-01",
+    "beliggenhetsadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0272",
+      "poststed": "OSLO",
+      "adresse": [
+        "Gabels gate 11"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301"
+    },
+    "links": []
+  },
+  {
+    "organisasjonsnummer": "919929677",
+    "navn": "TIME WATCHES OSLO",
+    "organisasjonsform": {
+      "kode": "BEDR",
+      "beskrivelse": "Bedrift",
+      "links": []
+    },
+    "postadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "6415",
+      "poststed": "MOLDE",
+      "adresse": [
+        "Romsdalsgata 16"
+      ],
+      "kommune": "MOLDE",
+      "kommunenummer": "1506"
+    },
+    "registreringsdatoEnhetsregisteret": "2017-11-20",
+    "registrertIMvaregisteret": false,
+    "naeringskode1": {
+      "beskrivelse": "Butikkhandel med ur og klokker",
+      "kode": "47.771"
+    },
+    "antallAnsatte": 0,
+    "overordnetEnhet": "919881828",
+    "oppstartsdato": "2017-10-25",
+    "beliggenhetsadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0157",
+      "poststed": "OSLO",
+      "adresse": [
+        "Øvre Slottsgate 9"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301"
+    },
+    "links": []
+  },
+  {
+    "organisasjonsnummer": "917318220",
+    "navn": "VIPPA AS",
+    "organisasjonsform": {
+      "kode": "BEDR",
+      "beskrivelse": "Bedrift",
+      "links": []
+    },
+    "postadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "7013",
+      "poststed": "TRONDHEIM",
+      "adresse": [
+        "v/Delta Regnskap AS",
+        "Kjøpmannsgata 8"
+      ],
+      "kommune": "TRONDHEIM",
+      "kommunenummer": "5001"
+    },
+    "registreringsdatoEnhetsregisteret": "2016-06-14",
+    "registrertIMvaregisteret": false,
+    "naeringskode1": {
+      "beskrivelse": "Drift av restauranter og kafeer",
+      "kode": "56.101"
+    },
+    "antallAnsatte": 44,
+    "overordnetEnhet": "817254322",
+    "oppstartsdato": "2016-05-19",
+    "beliggenhetsadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0150",
+      "poststed": "OSLO",
+      "adresse": [
+        "Akershusstranda 25"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301"
+    },
+    "links": []
+  }
+]
